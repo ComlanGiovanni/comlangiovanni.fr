@@ -1,0 +1,20 @@
+@font-face {
+    font-family: GrandHotel;
+    src: url(GrandHotel-Regular.otf);
+}
+
+.commingsoon {
+    padding-top: 20px;
+    text-align: center;
+    margin: auto;
+    font-size: 50px;
+    font-family:GrandHotel;
+    color: red;
+    animation-iteration-count: 60;
+}
+
+.gif {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
