@@ -1,0 +1,2859 @@
+StartFontMetrics 2.0
+Comment UniqueID 4604994
+Comment Panose 2 0 6 8 3 0 0 2 0 4
+FullName Lovesick AOE
+FontName LovesickAOE
+FamilyName Lovesick AOE
+Weight Regular
+Notice Copyright (c) Astigmatic (AOETI), 2006. All rights reserved.
+Version 001.000
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -159 -240 1250 870
+Ascender 667
+Descender -143
+XHeight 548
+CapHeight 692
+UnderlinePosition -133
+UnderlineThickness 20
+StdHW 20
+StdVW 55
+EncodingScheme FontSpecific
+StartCharMetrics 243
+C 1 ; WX 287 ; N Eth ; B 0 14 252 664 ;
+C 2 ; WX 227 ; N eth ; B 1 22 208 618 ;
+C 3 ; WX 248 ; N Lslash ; B -9 16 238 663 ;
+C 4 ; WX 104 ; N lslash ; B -13 63 98 667 ;
+C 5 ; WX 229 ; N Scaron ; B -20 -191 204 819 ;
+C 6 ; WX 184 ; N scaron ; B -3 78 156 658 ;
+C 7 ; WX 190 ; N Yacute ; B -3 8 195 826 ;
+C 8 ; WX 187 ; N yacute ; B -24 -240 188 631 ;
+C 11 ; WX 226 ; N Thorn ; B 11 -93 194 719 ;
+C 12 ; WX 217 ; N thorn ; B 11 -234 189 578 ;
+C 14 ; WX 273 ; N Zcaron ; B 0 5 247 746 ;
+C 15 ; WX 214 ; N zcaron ; B -4 98 186 546 ;
+C 21 ; WX 446 ; N onehalf ; B 0 5 413 658 ;
+C 22 ; WX 427 ; N onequarter ; B 0 0 393 658 ;
+C 23 ; WX 118 ; N onesuperior ; B 0 160 85 580 ;
+C 24 ; WX 507 ; N threequarters ; B -1 0 473 658 ;
+C 25 ; WX 227 ; N threesuperior ; B -1 192 192 581 ;
+C 26 ; WX 222 ; N twosuperior ; B 0 180 190 578 ;
+C 27 ; WX 90 ; N brokenbar ; B -2 9 66 671 ;
+C 28 ; WX 250 ; N minus ; B 0 312 219 377 ;
+C 29 ; WX 248 ; N multiply ; B -3 184 217 463 ;
+C 32 ; WX 97 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 135 ; N exclam ; B -3 -15 125 682 ;
+C 34 ; WX 208 ; N quotedbl ; B -2 471 178 654 ;
+C 35 ; WX 266 ; N numbersign ; B 0 2 232 615 ;
+C 36 ; WX 220 ; N dollar ; B 0 5 188 673 ;
+C 37 ; WX 268 ; N percent ; B -4 38 244 632 ;
+C 38 ; WX 301 ; N ampersand ; B -3 19 266 605 ;
+C 39 ; WX 81 ; N quotesingle ; B -26 471 48 653 ;
+C 40 ; WX 126 ; N parenleft ; B 0 42 119 602 ;
+C 41 ; WX 146 ; N parenright ; B 2 0 111 672 ;
+C 42 ; WX 235 ; N asterisk ; B -1 291 222 663 ;
+C 43 ; WX 223 ; N plus ; B 3 182 192 477 ;
+C 44 ; WX 117 ; N comma ; B -10 -33 83 101 ;
+C 45 ; WX 198 ; N hyphen ; B 3 319 168 381 ;
+C 46 ; WX 100 ; N period ; B 10 62 68 143 ;
+C 47 ; WX 222 ; N slash ; B 0 12 194 658 ;
+C 48 ; WX 199 ; N zero ; B 2 187 165 542 ;
+C 49 ; WX 118 ; N one ; B 0 160 85 580 ;
+C 50 ; WX 222 ; N two ; B 0 180 190 578 ;
+C 51 ; WX 227 ; N three ; B -1 192 192 581 ;
+C 52 ; WX 216 ; N four ; B -4 148 183 618 ;
+C 53 ; WX 214 ; N five ; B 0 134 180 565 ;
+C 54 ; WX 227 ; N six ; B -1 142 194 582 ;
+C 55 ; WX 189 ; N seven ; B 2 116 159 581 ;
+C 56 ; WX 182 ; N eight ; B 0 145 153 550 ;
+C 57 ; WX 225 ; N nine ; B 0 113 193 563 ;
+C 58 ; WX 100 ; N colon ; B 5 87 83 328 ;
+C 59 ; WX 107 ; N semicolon ; B -19 -33 83 309 ;
+C 60 ; WX 247 ; N less ; B 0 153 218 457 ;
+C 61 ; WX 257 ; N equal ; B 0 267 225 426 ;
+C 62 ; WX 205 ; N greater ; B -2 150 170 466 ;
+C 63 ; WX 217 ; N question ; B 0 8 188 665 ;
+C 64 ; WX 286 ; N at ; B -1 2 253 678 ;
+C 65 ; WX 320 ; N A ; B -15 -143 324 706 ;
+C 66 ; WX 301 ; N B ; B -1 -5 268 682 ;
+C 67 ; WX 242 ; N C ; B 0 36 210 663 ;
+C 68 ; WX 287 ; N D ; B 0 14 252 664 ;
+C 69 ; WX 258 ; N E ; B 0 21 247 686 ;
+C 70 ; WX 266 ; N F ; B -11 -29 233 676 ;
+C 71 ; WX 288 ; N G ; B 3 -111 254 660 ;
+C 72 ; WX 291 ; N H ; B -1 -49 260 682 ;
+C 73 ; WX 120 ; N I ; B -1 16 86 652 ;
+C 74 ; WX 108 ; N J ; B -159 -176 80 664 ;
+C 75 ; WX 365 ; N K ; B -2 -132 365 692 ;
+C 76 ; WX 248 ; N L ; B 0 16 238 663 ;
+C 77 ; WX 279 ; N M ; B -2 -142 278 709 ;
+C 78 ; WX 269 ; N N ; B 0 18 240 716 ;
+C 79 ; WX 229 ; N O ; B 0 12 195 608 ;
+C 80 ; WX 228 ; N P ; B -38 10 194 684 ;
+C 81 ; WX 269 ; N Q ; B 0 -47 269 638 ;
+C 82 ; WX 354 ; N R ; B -43 -47 354 684 ;
+C 83 ; WX 229 ; N S ; B -20 -191 204 684 ;
+C 84 ; WX 271 ; N T ; B 0 -18 240 684 ;
+C 85 ; WX 218 ; N U ; B -4 7 189 708 ;
+C 86 ; WX 225 ; N V ; B -1 1 197 687 ;
+C 87 ; WX 340 ; N W ; B 0 -33 340 713 ;
+C 88 ; WX 355 ; N X ; B -1 -140 355 654 ;
+C 89 ; WX 190 ; N Y ; B -3 8 188 719 ;
+C 90 ; WX 273 ; N Z ; B 0 5 247 619 ;
+C 91 ; WX 179 ; N bracketleft ; B -3 -17 170 662 ;
+C 92 ; WX 204 ; N backslash ; B 0 12 194 658 ;
+C 93 ; WX 166 ; N bracketright ; B 2 -27 130 665 ;
+C 94 ; WX 159 ; N asciicircum ; B 0 300 125 684 ;
+C 95 ; WX 302 ; N underscore ; B -5 -84 271 -20 ;
+C 96 ; WX 148 ; N grave ; B 0 536 117 655 ;
+C 97 ; WX 187 ; N a ; B 1 67 156 366 ;
+C 98 ; WX 196 ; N b ; B 4 45 163 612 ;
+C 99 ; WX 169 ; N c ; B 0 83 155 412 ;
+C 100 ; WX 197 ; N d ; B -2 56 190 665 ;
+C 101 ; WX 193 ; N e ; B -2 58 168 405 ;
+C 102 ; WX 189 ; N f ; B 1 -27 157 644 ;
+C 103 ; WX 175 ; N g ; B -35 -99 151 434 ;
+C 104 ; WX 194 ; N h ; B -3 17 186 643 ;
+C 105 ; WX 127 ; N i ; B -1 45 103 552 ;
+C 106 ; WX 113 ; N j ; B -157 -149 99 599 ;
+C 107 ; WX 229 ; N k ; B -4 -68 229 664 ;
+C 108 ; WX 104 ; N l ; B -3 63 83 667 ;
+C 109 ; WX 282 ; N m ; B -1 45 263 456 ;
+C 110 ; WX 198 ; N n ; B -4 -43 167 380 ;
+C 111 ; WX 178 ; N o ; B -2 84 145 385 ;
+C 112 ; WX 181 ; N p ; B 3 -143 149 434 ;
+C 113 ; WX 196 ; N q ; B 0 -143 197 447 ;
+C 114 ; WX 175 ; N r ; B -12 151 143 461 ;
+C 115 ; WX 184 ; N s ; B -3 78 156 526 ;
+C 116 ; WX 187 ; N t ; B 0 93 159 661 ;
+C 117 ; WX 208 ; N u ; B -3 106 197 452 ;
+C 118 ; WX 162 ; N v ; B -12 94 132 529 ;
+C 119 ; WX 244 ; N w ; B 0 84 210 548 ;
+C 120 ; WX 246 ; N x ; B -9 -12 246 443 ;
+C 121 ; WX 187 ; N y ; B -24 -240 188 486 ;
+C 122 ; WX 215 ; N z ; B -1 98 186 417 ;
+C 123 ; WX 147 ; N braceleft ; B 0 -34 137 677 ;
+C 124 ; WX 107 ; N bar ; B 2 -69 74 693 ;
+C 125 ; WX 182 ; N braceright ; B 0 -43 149 680 ;
+C 126 ; WX 320 ; N asciitilde ; B 0 416 291 534 ;
+C 128 ; WX 320 ; N Adieresis ; B -15 -143 324 817 ;
+C 129 ; WX 320 ; N Aring ; B -15 -143 324 819 ;
+C 130 ; WX 242 ; N Ccedilla ; B 0 -100 210 663 ;
+C 131 ; WX 258 ; N Eacute ; B 0 21 247 826 ;
+C 132 ; WX 269 ; N Ntilde ; B 0 18 240 816 ;
+C 133 ; WX 229 ; N Odieresis ; B 0 12 195 720 ;
+C 134 ; WX 218 ; N Udieresis ; B -4 7 189 817 ;
+C 135 ; WX 186 ; N aacute ; B 1 67 172 525 ;
+C 136 ; WX 186 ; N agrave ; B -10 67 156 538 ;
+C 137 ; WX 186 ; N acircumflex ; B 1 67 156 529 ;
+C 138 ; WX 186 ; N adieresis ; B 1 67 173 497 ;
+C 139 ; WX 186 ; N atilde ; B -4 67 177 517 ;
+C 140 ; WX 186 ; N aring ; B 1 67 156 519 ;
+C 141 ; WX 169 ; N ccedilla ; B 0 -61 155 412 ;
+C 142 ; WX 193 ; N eacute ; B -2 58 168 569 ;
+C 143 ; WX 193 ; N egrave ; B -44 58 168 572 ;
+C 144 ; WX 193 ; N ecircumflex ; B -11 58 168 544 ;
+C 145 ; WX 193 ; N edieresis ; B -11 58 168 526 ;
+C 146 ; WX 115 ; N iacute ; B -1 45 144 555 ;
+C 147 ; WX 115 ; N igrave ; B -39 45 83 552 ;
+C 148 ; WX 115 ; N icircumflex ; B -21 45 118 529 ;
+C 149 ; WX 115 ; N idieresis ; B -21 45 144 517 ;
+C 150 ; WX 198 ; N ntilde ; B -4 -43 177 536 ;
+C 151 ; WX 178 ; N oacute ; B -2 84 163 555 ;
+C 152 ; WX 178 ; N ograve ; B -29 84 145 557 ;
+C 153 ; WX 178 ; N ocircumflex ; B -7 84 145 539 ;
+C 154 ; WX 178 ; N odieresis ; B -6 84 159 512 ;
+C 155 ; WX 178 ; N otilde ; B -23 84 158 526 ;
+C 156 ; WX 208 ; N uacute ; B -3 106 197 608 ;
+C 157 ; WX 208 ; N ugrave ; B -20 106 197 606 ;
+C 158 ; WX 208 ; N ucircumflex ; B -3 106 197 603 ;
+C 159 ; WX 208 ; N udieresis ; B -3 106 197 565 ;
+C 160 ; WX 258 ; N dagger ; B 0 -25 226 682 ;
+C 161 ; WX 133 ; N degree ; B -1 451 103 601 ;
+C 162 ; WX 221 ; N cent ; B 1 6 192 680 ;
+C 163 ; WX 316 ; N sterling ; B 0 5 306 650 ;
+C 164 ; WX 264 ; N section ; B -2 1 239 674 ;
+C 165 ; WX 167 ; N bullet ; B 0 204 133 483 ;
+C 166 ; WX 242 ; N paragraph ; B -6 -30 219 669 ;
+C 167 ; WX 262 ; N germandbls ; B 1 -31 232 674 ;
+C 168 ; WX 278 ; N registered ; B -2 38 246 664 ;
+C 169 ; WX 282 ; N copyright ; B -3 18 248 655 ;
+C 170 ; WX 339 ; N trademark ; B 0 421 305 705 ;
+C 171 ; WX 150 ; N acute ; B 0 536 117 655 ;
+C 172 ; WX 197 ; N dieresis ; B -1 589 164 661 ;
+C 173 ; WX 257 ; N notequal ; B 0 187 225 502 ;
+C 174 ; WX 361 ; N AE ; B -15 -143 350 706 ;
+C 175 ; WX 215 ; N Oslash ; B -11 -6 182 646 ;
+C 176 ; WX 436 ; N infinity ; B 0 260 405 413 ;
+C 177 ; WX 257 ; N plusminus ; B 0 154 225 526 ;
+C 178 ; WX 257 ; N lessequal ; B 0 154 225 486 ;
+C 179 ; WX 257 ; N greaterequal ; B 0 154 225 485 ;
+C 180 ; WX 190 ; N yen ; B -3 8 188 719 ;
+C 181 ; WX 208 ; N mu ; B -3 2 197 452 ;
+C 182 ; WX 227 ; N partialdiff ; B 1 22 208 618 ;
+C 183 ; WX 250 ; N summation ; B 3 32 226 652 ;
+C 184 ; WX 276 ; N product ; B 2 37 242 664 ;
+C 185 ; WX 291 ; N pi ; B -5 45 258 392 ;
+C 186 ; WX 159 ; N integral ; B -2 -58 148 682 ;
+C 187 ; WX 175 ; N ordfeminine ; B -3 281 143 629 ;
+C 188 ; WX 179 ; N ordmasculine ; B 2 294 145 628 ;
+C 189 ; WX 234 ; N Omega ; B -3 148 200 515 ;
+C 190 ; WX 283 ; N ae ; B 2 21 264 368 ;
+C 191 ; WX 202 ; N oslash ; B -15 -9 168 480 ;
+C 192 ; WX 217 ; N questiondown ; B -1 8 188 661 ;
+C 193 ; WX 135 ; N exclamdown ; B -3 -15 125 682 ;
+C 194 ; WX 348 ; N logicalnot ; B 0 206 312 377 ;
+C 195 ; WX 297 ; N radical ; B 2 12 268 658 ;
+C 196 ; WX 215 ; N florin ; B -36 -44 181 651 ;
+C 197 ; WX 320 ; N approxequal ; B 0 225 291 466 ;
+C 198 ; WX 262 ; N Delta ; B -2 33 253 658 ;
+C 199 ; WX 273 ; N guillemotleft ; B 1 240 246 382 ;
+C 200 ; WX 273 ; N guillemotright ; B 2 240 247 382 ;
+C 201 ; WX 272 ; N ellipsis ; B 10 46 251 143 ;
+C 202 ; WX 97 ; N nbspace ; B 0 0 0 0 ;
+C 203 ; WX 320 ; N Agrave ; B -15 -143 324 867 ;
+C 204 ; WX 320 ; N Atilde ; B -15 -143 324 851 ;
+C 205 ; WX 229 ; N Otilde ; B -5 12 195 753 ;
+C 206 ; WX 370 ; N OE ; B 0 -29 363 636 ;
+C 207 ; WX 281 ; N oe ; B -2 50 260 397 ;
+C 208 ; WX 229 ; N endash ; B 0 317 195 378 ;
+C 209 ; WX 313 ; N emdash ; B 0 312 278 377 ;
+C 210 ; WX 217 ; N quotedblleft ; B 0 493 182 666 ;
+C 211 ; WX 217 ; N quotedblright ; B -2 493 180 666 ;
+C 212 ; WX 107 ; N quoteleft ; B 0 493 74 666 ;
+C 213 ; WX 108 ; N quoteright ; B -2 493 73 666 ;
+C 214 ; WX 250 ; N divide ; B 0 209 219 490 ;
+C 215 ; WX 1256 ; N lozenge ; B 6 0 1250 626 ;
+C 216 ; WX 187 ; N ydieresis ; B -26 -240 188 588 ;
+C 217 ; WX 190 ; N Ydieresis ; B -3 8 188 812 ;
+C 218 ; WX 222 ; N fraction ; B 0 12 194 658 ;
+C 219 ; WX 260 ; N currency ; B -3 87 229 573 ;
+C 220 ; WX 161 ; N guilsinglleft ; B 1 241 130 382 ;
+C 221 ; WX 161 ; N guilsinglright ; B 2 241 131 382 ;
+C 222 ; WX 207 ; N fi ; B 0 394 177 520 ;
+C 223 ; WX 188 ; N fl ; B 0 325 155 513 ;
+C 224 ; WX 259 ; N daggerdbl ; B 0 -14 245 668 ;
+C 225 ; WX 135 ; N periodcentered ; B -1 274 99 428 ;
+C 226 ; WX 104 ; N quotesinglbase ; B 1 -73 76 101 ;
+C 227 ; WX 217 ; N quotedblbase ; B 1 -73 183 101 ;
+C 228 ; WX 378 ; N perthousand ; B -4 38 359 632 ;
+C 229 ; WX 320 ; N Acircumflex ; B -15 -143 324 862 ;
+C 230 ; WX 258 ; N Ecircumflex ; B 0 21 247 852 ;
+C 231 ; WX 320 ; N Aacute ; B -15 -143 324 870 ;
+C 232 ; WX 258 ; N Edieresis ; B 0 21 247 807 ;
+C 233 ; WX 258 ; N Egrave ; B 0 21 247 824 ;
+C 234 ; WX 120 ; N Iacute ; B -1 16 146 816 ;
+C 235 ; WX 120 ; N Icircumflex ; B -26 16 113 818 ;
+C 236 ; WX 120 ; N Idieresis ; B -35 16 130 778 ;
+C 237 ; WX 120 ; N Igrave ; B -49 16 86 809 ;
+C 238 ; WX 229 ; N Oacute ; B 0 12 195 762 ;
+C 239 ; WX 229 ; N Ocircumflex ; B 0 12 195 769 ;
+C 241 ; WX 229 ; N Ograve ; B -25 12 195 757 ;
+C 242 ; WX 218 ; N Uacute ; B -4 7 189 855 ;
+C 243 ; WX 218 ; N Ucircumflex ; B -4 7 189 852 ;
+C 244 ; WX 218 ; N Ugrave ; B -27 7 189 785 ;
+C 245 ; WX 115 ; N dotlessi ; B -1 45 83 387 ;
+C 246 ; WX 170 ; N circumflex ; B 1 549 140 668 ;
+C 247 ; WX 213 ; N tilde ; B 0 555 181 665 ;
+C 248 ; WX 194 ; N macron ; B 0 608 165 670 ;
+C 249 ; WX 179 ; N breve ; B 0 577 152 677 ;
+C 250 ; WX 149 ; N dotaccent ; B 0 542 119 681 ;
+C 251 ; WX 149 ; N ring ; B 0 522 119 681 ;
+C 252 ; WX 180 ; N cedilla ; B 25 -144 130 18 ;
+C 253 ; WX 252 ; N hungarumlaut ; B 0 536 220 655 ;
+C 254 ; WX 217 ; N ogonek ; B 44 -134 155 25 ;
+C 255 ; WX 165 ; N caron ; B 1 549 140 668 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 2491
+KPX Scaron E -28
+KPX Scaron G -20
+KPX Scaron H -39
+KPX Scaron I -24
+KPX Scaron T -32
+KPX Scaron V -28
+KPX Scaron W -36
+KPX Scaron f -37
+KPX Scaron t -26
+KPX Scaron Eacute -28
+KPX Scaron Ecircumflex -28
+KPX Scaron Edieresis -28
+KPX Scaron Egrave -28
+KPX Scaron Iacute -24
+KPX Scaron Icircumflex -24
+KPX Scaron Idieresis -24
+
+KPX scaron J -28
+KPX scaron T -29
+KPX scaron f -35
+KPX scaron j -30
+
+KPX yacute C -26
+KPX yacute G -29
+KPX yacute T -30
+KPX yacute t -32
+KPX yacute v -24
+KPX yacute Ccedilla -26
+
+KPX Zcaron A -20
+KPX Zcaron C -27
+KPX Zcaron G -29
+KPX Zcaron T -21
+KPX Zcaron f -27
+KPX Zcaron m -30
+KPX Zcaron r -20
+KPX Zcaron v -29
+KPX Zcaron Adieresis -20
+KPX Zcaron Aring -20
+KPX Zcaron Ccedilla -27
+KPX Zcaron AE -20
+KPX Zcaron Agrave -20
+KPX Zcaron Atilde -20
+KPX Zcaron Acircumflex -20
+KPX Zcaron Aacute -20
+
+KPX zcaron Scaron -46
+KPX zcaron Yacute -32
+KPX zcaron A -22
+KPX zcaron B -60
+KPX zcaron C -21
+KPX zcaron D -65
+KPX zcaron E -36
+KPX zcaron F -22
+KPX zcaron H -46
+KPX zcaron I -26
+KPX zcaron L -23
+KPX zcaron R -28
+KPX zcaron S -46
+KPX zcaron T -50
+KPX zcaron V -41
+KPX zcaron W -36
+KPX zcaron X -42
+KPX zcaron Y -32
+KPX zcaron f -49
+KPX zcaron t -24
+KPX zcaron Adieresis -22
+KPX zcaron Aring -22
+KPX zcaron Ccedilla -21
+KPX zcaron Eacute -36
+KPX zcaron AE -22
+KPX zcaron Agrave -22
+KPX zcaron Atilde -22
+KPX zcaron Ydieresis -32
+KPX zcaron Acircumflex -22
+KPX zcaron Ecircumflex -36
+KPX zcaron Aacute -22
+KPX zcaron Edieresis -36
+KPX zcaron Egrave -36
+KPX zcaron Iacute -26
+KPX zcaron Icircumflex -26
+KPX zcaron Idieresis -26
+KPX zcaron Igrave -26
+
+KPX A scaron -72
+KPX A Yacute -63
+KPX A Zcaron -49
+KPX A zcaron -86
+KPX A B -67
+KPX A C -43
+KPX A D -81
+KPX A E -42
+KPX A F -35
+KPX A G -49
+KPX A H -66
+KPX A I -60
+KPX A K -47
+KPX A L -53
+KPX A M -27
+KPX A N -44
+KPX A O -41
+KPX A P -52
+KPX A Q -42
+KPX A R -66
+KPX A T -125
+KPX A U -39
+KPX A V -76
+KPX A W -61
+KPX A X -59
+KPX A Y -63
+KPX A Z -49
+KPX A a -70
+KPX A b -48
+KPX A c -41
+KPX A d -54
+KPX A e -53
+KPX A f -84
+KPX A h -43
+KPX A i -41
+KPX A k -43
+KPX A l -48
+KPX A m -41
+KPX A n -44
+KPX A o -50
+KPX A q -54
+KPX A r -30
+KPX A s -72
+KPX A t -86
+KPX A u -61
+KPX A v -44
+KPX A w -49
+KPX A x -45
+KPX A z -86
+KPX A Ccedilla -43
+KPX A Eacute -42
+KPX A Ntilde -44
+KPX A Odieresis -41
+KPX A Udieresis -39
+KPX A aacute -70
+KPX A agrave -70
+KPX A acircumflex -70
+KPX A adieresis -70
+KPX A atilde -70
+KPX A aring -70
+KPX A ccedilla -41
+KPX A eacute -53
+KPX A egrave -53
+KPX A ecircumflex -53
+KPX A edieresis -53
+KPX A iacute -41
+KPX A igrave -41
+KPX A icircumflex -41
+KPX A idieresis -41
+KPX A ntilde -44
+KPX A oacute -50
+KPX A ograve -50
+KPX A ocircumflex -50
+KPX A odieresis -50
+KPX A otilde -50
+KPX A uacute -61
+KPX A ugrave -61
+KPX A ucircumflex -61
+KPX A udieresis -61
+KPX A ae -70
+KPX A Otilde -41
+KPX A OE -41
+KPX A oe -50
+KPX A Ydieresis -63
+KPX A Ecircumflex -42
+KPX A Edieresis -42
+KPX A Egrave -42
+KPX A Iacute -60
+KPX A Icircumflex -60
+KPX A Idieresis -60
+KPX A Igrave -60
+KPX A Oacute -41
+KPX A Ocircumflex -41
+KPX A Ograve -41
+KPX A Uacute -39
+KPX A Ucircumflex -39
+KPX A Ugrave -39
+KPX A dotlessi -41
+
+KPX B Scaron -57
+KPX B Yacute -23
+KPX B B -50
+KPX B D -47
+KPX B E -26
+KPX B F -25
+KPX B H -22
+KPX B I -24
+KPX B L -21
+KPX B R -25
+KPX B S -57
+KPX B T -57
+KPX B V -47
+KPX B W -33
+KPX B X -42
+KPX B Y -23
+KPX B f -41
+KPX B t -30
+KPX B Eacute -26
+KPX B Ydieresis -23
+KPX B Ecircumflex -26
+KPX B Edieresis -26
+KPX B Egrave -26
+KPX B Iacute -24
+KPX B Icircumflex -24
+KPX B Idieresis -24
+KPX B Igrave -24
+
+KPX C A -30
+KPX C O -22
+KPX C c -36
+KPX C d -20
+KPX C e -21
+KPX C f -25
+KPX C m -125
+KPX C o -23
+KPX C q -77
+KPX C r -36
+KPX C t -23
+KPX C u -54
+KPX C v -47
+KPX C w -31
+KPX C y -89
+KPX C Adieresis -30
+KPX C Aring -30
+KPX C Odieresis -22
+KPX C ccedilla -36
+KPX C eacute -21
+KPX C ecircumflex -21
+KPX C iacute -28
+KPX C icircumflex -21
+KPX C idieresis -21
+KPX C oacute -23
+KPX C ocircumflex -23
+KPX C odieresis -23
+KPX C uacute -54
+KPX C AE -30
+KPX C Agrave -30
+KPX C Atilde -30
+KPX C Otilde -22
+KPX C OE -21
+KPX C oe -23
+KPX C Acircumflex -30
+KPX C Aacute -30
+KPX C Oacute -22
+KPX C Ocircumflex -22
+KPX C Ograve -22
+KPX C dotlessi -28
+
+KPX D Scaron -39
+KPX D Zcaron -40
+KPX D B -40
+KPX D D -51
+KPX D S -39
+KPX D T -52
+KPX D X -57
+KPX D Z -40
+
+KPX E C -29
+KPX E E -21
+KPX E G -21
+KPX E T -71
+KPX E W -21
+KPX E f -44
+KPX E m -26
+KPX E v -21
+KPX E Ccedilla -29
+KPX E Eacute -21
+KPX E Ecircumflex -21
+KPX E Edieresis -21
+KPX E Egrave -21
+
+KPX F yacute -51
+KPX F Zcaron -44
+KPX F zcaron -52
+KPX F A -59
+KPX F C -34
+KPX F G -47
+KPX F O -50
+KPX F Q -40
+KPX F T -28
+KPX F Z -44
+KPX F a -135
+KPX F b -51
+KPX F c -64
+KPX F d -81
+KPX F e -78
+KPX F f -31
+KPX F g -62
+KPX F i -79
+KPX F j -21
+KPX F k -31
+KPX F m -60
+KPX F n -70
+KPX F o -88
+KPX F p -61
+KPX F q -73
+KPX F r -38
+KPX F s -72
+KPX F u -43
+KPX F v -34
+KPX F w -45
+KPX F x -45
+KPX F y -51
+KPX F z -52
+KPX F Adieresis -59
+KPX F Aring -59
+KPX F Ccedilla -34
+KPX F aacute -101
+KPX F agrave -100
+KPX F acircumflex -59
+KPX F adieresis -55
+KPX F atilde -42
+KPX F aring -73
+KPX F ccedilla -64
+KPX F eacute -78
+KPX F egrave -78
+KPX F ecircumflex -39
+KPX F edieresis -78
+KPX F iacute -74
+KPX F igrave -79
+KPX F icircumflex -25
+KPX F idieresis -38
+KPX F ntilde -45
+KPX F oacute -88
+KPX F ograve -88
+KPX F ocircumflex -40
+KPX F odieresis -48
+KPX F otilde -22
+KPX F uacute -43
+KPX F ucircumflex -43
+KPX F udieresis -43
+KPX F AE -59
+KPX F ae -135
+KPX F Agrave -59
+KPX F Atilde -59
+KPX F OE -50
+KPX F oe -88
+KPX F ydieresis -51
+KPX F Acircumflex -59
+KPX F Aacute -59
+KPX F Oacute -50
+KPX F Ocircumflex -50
+KPX F Ograve -46
+KPX F dotlessi -79
+
+KPX G D -33
+KPX G H -28
+KPX G T -39
+KPX G a -22
+KPX G d -22
+KPX G e -22
+KPX G o -25
+KPX G aacute -22
+KPX G agrave -22
+KPX G adieresis -22
+KPX G aring -22
+KPX G eacute -22
+KPX G ecircumflex -22
+KPX G edieresis -22
+KPX G oacute -25
+KPX G ocircumflex -25
+KPX G odieresis -25
+KPX G otilde -25
+KPX G ae -22
+KPX G oe -25
+
+KPX H Scaron -27
+KPX H scaron -28
+KPX H Zcaron -33
+KPX H D -22
+KPX H S -27
+KPX H T -31
+KPX H V -21
+KPX H X -22
+KPX H Z -33
+KPX H a -28
+KPX H s -31
+KPX H t -26
+KPX H aacute -28
+KPX H agrave -21
+KPX H acircumflex -28
+KPX H adieresis -28
+KPX H atilde -28
+KPX H aring -27
+KPX H ae -28
+
+KPX J Scaron -21
+KPX J D -21
+KPX J I -21
+KPX J S -21
+KPX J T -25
+KPX J Iacute -21
+KPX J Icircumflex -21
+KPX J Idieresis -21
+KPX J Igrave -21
+
+KPX K scaron -94
+KPX K Yacute -90
+KPX K Zcaron -73
+KPX K zcaron -108
+KPX K B -91
+KPX K C -148
+KPX K D -106
+KPX K E -117
+KPX K F -45
+KPX K G -104
+KPX K H -38
+KPX K I -112
+KPX K K -84
+KPX K L -93
+KPX K N -100
+KPX K O -126
+KPX K P -95
+KPX K Q -126
+KPX K R -61
+KPX K T -177
+KPX K U -113
+KPX K V -156
+KPX K W -124
+KPX K X -83
+KPX K Y -90
+KPX K Z -73
+KPX K a -100
+KPX K b -96
+KPX K c -127
+KPX K d -107
+KPX K e -114
+KPX K f -102
+KPX K h -91
+KPX K i -121
+KPX K k -83
+KPX K l -111
+KPX K m -140
+KPX K n -77
+KPX K o -112
+KPX K q -51
+KPX K r -126
+KPX K s -94
+KPX K t -116
+KPX K u -125
+KPX K v -137
+KPX K w -117
+KPX K x -71
+KPX K z -108
+KPX K Ccedilla -49
+KPX K Eacute -117
+KPX K Ntilde -100
+KPX K Odieresis -102
+KPX K Udieresis -113
+KPX K aacute -100
+KPX K agrave -100
+KPX K acircumflex -100
+KPX K adieresis -100
+KPX K atilde -100
+KPX K aring -100
+KPX K eacute -114
+KPX K egrave -114
+KPX K ecircumflex -114
+KPX K edieresis -114
+KPX K iacute -121
+KPX K igrave -121
+KPX K icircumflex -121
+KPX K idieresis -121
+KPX K ntilde -77
+KPX K oacute -112
+KPX K ograve -112
+KPX K ocircumflex -112
+KPX K odieresis -112
+KPX K otilde -112
+KPX K uacute -125
+KPX K ugrave -125
+KPX K ucircumflex -125
+KPX K udieresis -125
+KPX K ae -101
+KPX K Otilde -89
+KPX K OE -125
+KPX K oe -112
+KPX K Ydieresis -90
+KPX K Ecircumflex -117
+KPX K Edieresis -117
+KPX K Egrave -117
+KPX K Iacute -112
+KPX K Icircumflex -112
+KPX K Idieresis -112
+KPX K Igrave -112
+KPX K Oacute -126
+KPX K Ocircumflex -97
+KPX K Ograve -100
+KPX K Uacute -113
+KPX K Ucircumflex -113
+KPX K Ugrave -113
+KPX K dotlessi -121
+
+KPX L Scaron -132
+KPX L yacute -83
+KPX L C -41
+KPX L E -41
+KPX L G -40
+KPX L H -25
+KPX L S -132
+KPX L T -98
+KPX L V -73
+KPX L W -23
+KPX L c -27
+KPX L f -36
+KPX L m -124
+KPX L q -56
+KPX L r -121
+KPX L t -45
+KPX L u -48
+KPX L v -43
+KPX L w -22
+KPX L y -83
+KPX L Ccedilla -41
+KPX L Eacute -41
+KPX L ccedilla -27
+KPX L uacute -48
+KPX L ugrave -48
+KPX L ucircumflex -48
+KPX L udieresis -48
+KPX L ydieresis -83
+KPX L Ecircumflex -41
+KPX L Edieresis -41
+KPX L Egrave -41
+
+KPX M T -29
+KPX M V -27
+
+KPX N yacute -46
+KPX N Zcaron -20
+KPX N zcaron -55
+KPX N A -49
+KPX N C -25
+KPX N G -35
+KPX N O -64
+KPX N Q -30
+KPX N Z -20
+KPX N a -51
+KPX N b -39
+KPX N c -64
+KPX N d -50
+KPX N e -60
+KPX N f -27
+KPX N g -56
+KPX N i -61
+KPX N k -26
+KPX N m -61
+KPX N n -41
+KPX N o -55
+KPX N p -42
+KPX N q -58
+KPX N r -54
+KPX N s -45
+KPX N u -61
+KPX N v -51
+KPX N w -61
+KPX N y -52
+KPX N z -55
+KPX N Adieresis -49
+KPX N Aring -33
+KPX N Ccedilla -25
+KPX N aacute -51
+KPX N agrave -50
+KPX N acircumflex -51
+KPX N adieresis -51
+KPX N atilde -51
+KPX N aring -51
+KPX N ccedilla -64
+KPX N eacute -60
+KPX N ecircumflex -51
+KPX N edieresis -49
+KPX N iacute -64
+KPX N igrave -21
+KPX N icircumflex -41
+KPX N idieresis -40
+KPX N ntilde -41
+KPX N oacute -55
+KPX N ograve -31
+KPX N ocircumflex -55
+KPX N odieresis -55
+KPX N otilde -38
+KPX N uacute -61
+KPX N ucircumflex -33
+KPX N udieresis -59
+KPX N AE -49
+KPX N ae -52
+KPX N Agrave -49
+KPX N Atilde -49
+KPX N OE -64
+KPX N oe -55
+KPX N Acircumflex -49
+KPX N Aacute -49
+KPX N Oacute -60
+KPX N dotlessi -64
+
+KPX O Scaron -28
+KPX O B -37
+KPX O D -40
+KPX O R -20
+KPX O S -28
+KPX O T -29
+KPX O X -44
+
+KPX P scaron -21
+KPX P Zcaron -42
+KPX P A -26
+KPX P B -31
+KPX P D -28
+KPX P H -24
+KPX P X -27
+KPX P Z -42
+KPX P a -67
+KPX P d -20
+KPX P o -22
+KPX P s -21
+KPX P Adieresis -26
+KPX P Aring -26
+KPX P aacute -50
+KPX P aring -21
+KPX P oacute -22
+KPX P AE -26
+KPX P ae -68
+KPX P Agrave -26
+KPX P Atilde -26
+KPX P oe -22
+KPX P Acircumflex -26
+KPX P Aacute -26
+
+KPX Q Scaron -35
+KPX Q scaron -30
+KPX Q yacute -29
+KPX Q zcaron -34
+KPX Q C -34
+KPX Q D -45
+KPX Q E -38
+KPX Q G -37
+KPX Q N -34
+KPX Q O -35
+KPX Q Q -36
+KPX Q S -35
+KPX Q T -54
+KPX Q U -31
+KPX Q V -46
+KPX Q W -43
+KPX Q a -31
+KPX Q b -34
+KPX Q c -34
+KPX Q d -29
+KPX Q e -32
+KPX Q h -32
+KPX Q i -35
+KPX Q k -30
+KPX Q l -27
+KPX Q m -31
+KPX Q n -31
+KPX Q o -30
+KPX Q q -32
+KPX Q r -25
+KPX Q s -30
+KPX Q t -38
+KPX Q u -31
+KPX Q v -22
+KPX Q w -34
+KPX Q x -31
+KPX Q y -29
+KPX Q z -34
+KPX Q Ccedilla -34
+KPX Q Eacute -38
+KPX Q Ntilde -34
+KPX Q Odieresis -35
+KPX Q Udieresis -31
+KPX Q aacute -31
+KPX Q agrave -31
+KPX Q acircumflex -31
+KPX Q adieresis -31
+KPX Q atilde -31
+KPX Q aring -31
+KPX Q ccedilla -24
+KPX Q eacute -32
+KPX Q ecircumflex -30
+KPX Q edieresis -32
+KPX Q iacute -35
+KPX Q idieresis -24
+KPX Q ntilde -31
+KPX Q oacute -30
+KPX Q ograve -21
+KPX Q ocircumflex -30
+KPX Q odieresis -30
+KPX Q uacute -31
+KPX Q ugrave -31
+KPX Q ucircumflex -31
+KPX Q udieresis -31
+KPX Q ae -32
+KPX Q Otilde -35
+KPX Q OE -35
+KPX Q oe -30
+KPX Q ydieresis -24
+KPX Q Ecircumflex -38
+KPX Q Edieresis -38
+KPX Q Egrave -38
+KPX Q Oacute -35
+KPX Q Ocircumflex -35
+KPX Q Ograve -35
+KPX Q Uacute -31
+KPX Q Ucircumflex -31
+KPX Q Ugrave -31
+KPX Q dotlessi -35
+
+KPX R Scaron -24
+KPX R scaron -100
+KPX R yacute -89
+KPX R zcaron -114
+KPX R C -82
+KPX R E -54
+KPX R G -77
+KPX R O -42
+KPX R Q -42
+KPX R S -24
+KPX R T -85
+KPX R U -39
+KPX R V -71
+KPX R a -104
+KPX R c -127
+KPX R d -110
+KPX R e -67
+KPX R i -26
+KPX R l -114
+KPX R m -134
+KPX R o -114
+KPX R q -42
+KPX R r -121
+KPX R s -100
+KPX R t -133
+KPX R u -128
+KPX R v -122
+KPX R w -120
+KPX R x -73
+KPX R y -89
+KPX R z -114
+KPX R Ccedilla -67
+KPX R Eacute -54
+KPX R Odieresis -42
+KPX R Udieresis -39
+KPX R aacute -104
+KPX R agrave -104
+KPX R acircumflex -104
+KPX R adieresis -104
+KPX R atilde -104
+KPX R aring -104
+KPX R ccedilla -20
+KPX R eacute -67
+KPX R egrave -67
+KPX R ecircumflex -67
+KPX R edieresis -67
+KPX R iacute -26
+KPX R igrave -26
+KPX R icircumflex -26
+KPX R idieresis -26
+KPX R oacute -114
+KPX R ograve -111
+KPX R ocircumflex -114
+KPX R odieresis -114
+KPX R otilde -110
+KPX R uacute -128
+KPX R ugrave -128
+KPX R ucircumflex -128
+KPX R udieresis -128
+KPX R ae -104
+KPX R Otilde -42
+KPX R OE -42
+KPX R oe -114
+KPX R ydieresis -89
+KPX R Ecircumflex -54
+KPX R Edieresis -54
+KPX R Egrave -54
+KPX R Oacute -42
+KPX R Ocircumflex -42
+KPX R Ograve -42
+KPX R Uacute -39
+KPX R Ucircumflex -39
+KPX R Ugrave -39
+KPX R dotlessi -26
+
+KPX S E -28
+KPX S G -20
+KPX S H -39
+KPX S I -24
+KPX S T -32
+KPX S V -28
+KPX S W -36
+KPX S f -37
+KPX S t -26
+KPX S Eacute -28
+KPX S Ecircumflex -28
+KPX S Edieresis -28
+KPX S Egrave -28
+KPX S Iacute -24
+KPX S Icircumflex -24
+KPX S Idieresis -24
+KPX S Igrave -24
+
+KPX T yacute -57
+KPX T Zcaron -52
+KPX T zcaron -82
+KPX T A -62
+KPX T C -37
+KPX T G -50
+KPX T N -21
+KPX T O -78
+KPX T Q -43
+KPX T T -35
+KPX T Z -52
+KPX T a -62
+KPX T b -53
+KPX T c -76
+KPX T d -62
+KPX T e -74
+KPX T f -34
+KPX T g -48
+KPX T i -76
+KPX T k -28
+KPX T m -73
+KPX T n -70
+KPX T o -66
+KPX T p -69
+KPX T q -71
+KPX T r -67
+KPX T s -59
+KPX T u -82
+KPX T v -76
+KPX T w -73
+KPX T x -57
+KPX T y -63
+KPX T z -82
+KPX T Adieresis -62
+KPX T Aring -58
+KPX T Ccedilla -37
+KPX T Ntilde -21
+KPX T aacute -62
+KPX T agrave -62
+KPX T acircumflex -62
+KPX T adieresis -62
+KPX T atilde -62
+KPX T aring -62
+KPX T ccedilla -76
+KPX T eacute -74
+KPX T egrave -62
+KPX T ecircumflex -74
+KPX T edieresis -74
+KPX T iacute -76
+KPX T igrave -66
+KPX T icircumflex -73
+KPX T idieresis -74
+KPX T ntilde -70
+KPX T oacute -66
+KPX T ograve -66
+KPX T ocircumflex -66
+KPX T odieresis -66
+KPX T otilde -66
+KPX T uacute -82
+KPX T ucircumflex -52
+KPX T udieresis -82
+KPX T AE -62
+KPX T ae -62
+KPX T Agrave -62
+KPX T Atilde -62
+KPX T OE -78
+KPX T oe -66
+KPX T ydieresis -63
+KPX T Acircumflex -62
+KPX T Aacute -62
+KPX T Oacute -61
+KPX T Ograve -28
+KPX T dotlessi -76
+
+KPX V a -22
+KPX V aacute -22
+KPX V aring -22
+KPX V ae -22
+
+KPX W yacute -62
+KPX W Zcaron -32
+KPX W zcaron -58
+KPX W A -35
+KPX W C -28
+KPX W F -27
+KPX W G -53
+KPX W N -61
+KPX W O -60
+KPX W Q -60
+KPX W T -44
+KPX W U -57
+KPX W V -43
+KPX W W -60
+KPX W X -49
+KPX W Z -71
+KPX W a -69
+KPX W b -66
+KPX W c -60
+KPX W d -54
+KPX W e -60
+KPX W f -21
+KPX W g -43
+KPX W i -59
+KPX W m -60
+KPX W n -61
+KPX W o -60
+KPX W p -65
+KPX W q -63
+KPX W r -49
+KPX W s -66
+KPX W u -57
+KPX W v -48
+KPX W w -60
+KPX W x -59
+KPX W y -62
+KPX W z -59
+KPX W Adieresis -35
+KPX W Ccedilla -28
+KPX W Udieresis -57
+KPX W aacute -69
+KPX W agrave -51
+KPX W acircumflex -69
+KPX W adieresis -69
+KPX W atilde -56
+KPX W aring -69
+KPX W ccedilla -60
+KPX W eacute -60
+KPX W ecircumflex -49
+KPX W edieresis -49
+KPX W iacute -59
+KPX W igrave -22
+KPX W icircumflex -40
+KPX W idieresis -39
+KPX W ntilde -56
+KPX W oacute -60
+KPX W ograve -31
+KPX W ocircumflex -54
+KPX W odieresis -54
+KPX W otilde -37
+KPX W uacute -57
+KPX W ugrave -32
+KPX W ucircumflex -57
+KPX W udieresis -57
+KPX W AE -35
+KPX W ae -69
+KPX W Agrave -35
+KPX W Atilde -35
+KPX W OE -60
+KPX W oe -60
+KPX W ydieresis -35
+KPX W Acircumflex -35
+KPX W Aacute -35
+KPX W Oacute -29
+KPX W Uacute -57
+KPX W Ucircumflex -57
+KPX W dotlessi -59
+
+KPX X scaron -118
+KPX X Yacute -109
+KPX X Zcaron -81
+KPX X zcaron -132
+KPX X B -104
+KPX X C -171
+KPX X D -126
+KPX X E -161
+KPX X F -55
+KPX X G -103
+KPX X H -51
+KPX X I -124
+KPX X K -93
+KPX X L -105
+KPX X N -112
+KPX X O -152
+KPX X P -110
+KPX X Q -147
+KPX X R -106
+KPX X T -168
+KPX X U -137
+KPX X V -155
+KPX X W -135
+KPX X X -92
+KPX X Y -109
+KPX X Z -81
+KPX X a -125
+KPX X b -119
+KPX X c -153
+KPX X d -135
+KPX X e -137
+KPX X f -112
+KPX X h -111
+KPX X i -143
+KPX X k -105
+KPX X l -136
+KPX X m -157
+KPX X n -89
+KPX X o -140
+KPX X q -50
+KPX X r -149
+KPX X s -118
+KPX X t -162
+KPX X u -155
+KPX X v -162
+KPX X w -144
+KPX X x -90
+KPX X z -132
+KPX X Ccedilla -49
+KPX X Eacute -161
+KPX X Ntilde -112
+KPX X Odieresis -152
+KPX X Udieresis -137
+KPX X aacute -125
+KPX X agrave -125
+KPX X acircumflex -125
+KPX X adieresis -125
+KPX X atilde -125
+KPX X aring -125
+KPX X eacute -137
+KPX X egrave -124
+KPX X ecircumflex -137
+KPX X edieresis -137
+KPX X iacute -143
+KPX X igrave -133
+KPX X icircumflex -143
+KPX X idieresis -143
+KPX X ntilde -89
+KPX X oacute -140
+KPX X ograve -140
+KPX X ocircumflex -140
+KPX X odieresis -140
+KPX X otilde -140
+KPX X uacute -155
+KPX X ugrave -146
+KPX X ucircumflex -155
+KPX X udieresis -155
+KPX X ae -125
+KPX X Otilde -145
+KPX X OE -152
+KPX X oe -140
+KPX X Ydieresis -109
+KPX X Ecircumflex -161
+KPX X Edieresis -161
+KPX X Egrave -161
+KPX X Iacute -124
+KPX X Icircumflex -124
+KPX X Idieresis -124
+KPX X Igrave -124
+KPX X Oacute -152
+KPX X Ocircumflex -152
+KPX X Ograve -152
+KPX X Uacute -137
+KPX X Ucircumflex -137
+KPX X Ugrave -137
+KPX X dotlessi -143
+
+KPX Z A -20
+KPX Z C -27
+KPX Z G -29
+KPX Z T -21
+KPX Z f -27
+KPX Z m -30
+KPX Z r -20
+KPX Z v -29
+KPX Z Adieresis -20
+KPX Z Aring -20
+KPX Z Ccedilla -27
+KPX Z AE -20
+KPX Z Agrave -20
+KPX Z Atilde -20
+KPX Z Acircumflex -20
+KPX Z Aacute -20
+
+KPX a Scaron -79
+KPX a j -28
+KPX a t -38
+KPX a u -21
+KPX a uacute -21
+KPX a ugrave -21
+KPX a ucircumflex -21
+KPX a udieresis -21
+KPX a Iacute -21
+KPX a Icircumflex -21
+KPX a Idieresis -21
+KPX a Igrave -21
+
+KPX b Scaron -62
+KPX b Yacute -34
+KPX b Zcaron -21
+KPX b zcaron -24
+KPX b f -38
+KPX b t -32
+KPX b z -24
+KPX b Eacute -23
+KPX b Ydieresis -34
+KPX b Ecircumflex -23
+KPX b Edieresis -23
+KPX b Egrave -23
+KPX b Iacute -21
+KPX b Icircumflex -21
+KPX b Idieresis -21
+KPX b Igrave -21
+
+KPX c Scaron -64
+
+KPX e Scaron -123
+KPX e f -48
+KPX e j -38
+KPX e t -27
+KPX e Adieresis -21
+KPX e Aring -21
+KPX e Eacute -39
+KPX e AE -21
+KPX e Agrave -21
+KPX e Atilde -21
+KPX e Acircumflex -21
+KPX e Ecircumflex -39
+KPX e Aacute -21
+KPX e Edieresis -39
+KPX e Egrave -39
+KPX e Iacute -22
+KPX e Icircumflex -22
+KPX e Idieresis -22
+KPX e Igrave -22
+
+KPX f Zcaron -30
+KPX f a -25
+KPX f d -27
+KPX f e -31
+KPX f i -26
+KPX f n -24
+KPX f o -31
+KPX f q -24
+KPX f Adieresis -25
+KPX f Aring -25
+KPX f aacute -25
+KPX f agrave -25
+KPX f eacute -31
+KPX f edieresis -31
+KPX f iacute -21
+KPX f oacute -31
+KPX f AE -25
+KPX f ae -25
+KPX f Agrave -25
+KPX f Atilde -25
+KPX f oe -31
+KPX f Acircumflex -25
+KPX f Aacute -25
+KPX f dotlessi -26
+
+KPX g Scaron -48
+
+KPX h Scaron -84
+KPX h t -38
+
+KPX i u -22
+KPX i uacute -22
+
+KPX k scaron -21
+KPX k Yacute -24
+KPX k yacute -34
+KPX k zcaron -36
+KPX k a -21
+KPX k b -28
+KPX k c -48
+KPX k d -28
+KPX k e -36
+KPX k h -32
+KPX k i -42
+KPX k k -27
+KPX k l -32
+KPX k m -57
+KPX k n -28
+KPX k o -32
+KPX k q -42
+KPX k r -33
+KPX k s -21
+KPX k t -40
+KPX k u -38
+KPX k v -29
+KPX k w -38
+KPX k y -34
+KPX k z -36
+KPX k Ccedilla -42
+KPX k Eacute -64
+KPX k Ntilde -34
+KPX k Odieresis -45
+KPX k Udieresis -39
+KPX k aacute -21
+KPX k agrave -21
+KPX k acircumflex -21
+KPX k adieresis -21
+KPX k atilde -21
+KPX k aring -21
+KPX k eacute -36
+KPX k egrave -36
+KPX k ecircumflex -34
+KPX k edieresis -36
+KPX k iacute -42
+KPX k igrave -42
+KPX k icircumflex -20
+KPX k idieresis -42
+KPX k ntilde -28
+KPX k oacute -32
+KPX k ograve -32
+KPX k ocircumflex -32
+KPX k odieresis -32
+KPX k uacute -38
+KPX k ugrave -38
+KPX k ucircumflex -38
+KPX k udieresis -38
+KPX k ae -21
+KPX k Otilde -45
+KPX k OE -45
+KPX k oe -32
+KPX k ydieresis -34
+KPX k Ydieresis -24
+KPX k Ecircumflex -64
+KPX k Edieresis -64
+KPX k Egrave -64
+KPX k Iacute -31
+KPX k Icircumflex -31
+KPX k Idieresis -31
+KPX k Igrave -31
+KPX k Oacute -45
+KPX k Ocircumflex -45
+KPX k Ograve -45
+KPX k Uacute -39
+KPX k Ucircumflex -39
+KPX k Ugrave -39
+KPX k dotlessi -42
+
+KPX m Scaron -60
+KPX m t -21
+
+KPX n Scaron -104
+KPX n f -44
+KPX n t -30
+KPX n Eacute -28
+KPX n Ecircumflex -28
+KPX n Edieresis -28
+KPX n Egrave -28
+KPX n Iacute -28
+KPX n Icircumflex -28
+KPX n Idieresis -28
+KPX n Igrave -28
+
+KPX o Scaron -93
+KPX o Yacute -31
+KPX o zcaron -24
+KPX o f -26
+KPX o j -24
+KPX o t -30
+KPX o z -24
+KPX o Ydieresis -31
+KPX o Iacute -28
+KPX o Icircumflex -28
+KPX o Idieresis -28
+KPX o Igrave -28
+
+KPX p Scaron -60
+KPX p t -31
+KPX p Iacute -20
+KPX p Icircumflex -20
+KPX p Idieresis -20
+KPX p Igrave -20
+
+KPX q Iacute -27
+KPX q Icircumflex -27
+KPX q Idieresis -27
+KPX q Igrave -27
+
+KPX r Scaron -46
+KPX r scaron -27
+KPX r Zcaron -92
+KPX r a -25
+KPX r j -30
+KPX r s -27
+KPX r aacute -25
+KPX r agrave -25
+KPX r aring -25
+KPX r ae -25
+
+KPX s Scaron -27
+KPX s f -42
+KPX s j -30
+KPX s Eacute -28
+KPX s Ecircumflex -28
+KPX s Edieresis -28
+KPX s Egrave -28
+KPX s Iacute -22
+KPX s Icircumflex -22
+KPX s Idieresis -22
+KPX s Igrave -22
+
+KPX t f -42
+KPX t j -31
+KPX t m -22
+KPX t Adieresis -22
+KPX t Aring -22
+KPX t AE -22
+KPX t Agrave -22
+KPX t Atilde -22
+KPX t Acircumflex -22
+KPX t Aacute -22
+
+KPX u Scaron -64
+KPX u f -27
+KPX u Ccedilla -26
+KPX u Eacute -26
+KPX u Ecircumflex -26
+KPX u Edieresis -26
+KPX u Egrave -26
+
+KPX v Scaron -32
+KPX v Zcaron -39
+
+KPX w Scaron -23
+KPX w scaron -21
+KPX w Zcaron -40
+KPX w a -23
+KPX w s -21
+KPX w aacute -23
+KPX w aring -22
+KPX w ae -23
+
+KPX x Scaron -107
+KPX x scaron -49
+KPX x yacute -73
+KPX x zcaron -67
+KPX x a -34
+KPX x c -88
+KPX x d -71
+KPX x e -24
+KPX x l -28
+KPX x m -85
+KPX x o -75
+KPX x q -44
+KPX x r -63
+KPX x s -49
+KPX x t -71
+KPX x u -68
+KPX x v -59
+KPX x w -71
+KPX x y -73
+KPX x z -67
+KPX x Ccedilla -48
+KPX x Eacute -44
+KPX x Odieresis -26
+KPX x aacute -34
+KPX x agrave -34
+KPX x acircumflex -34
+KPX x adieresis -34
+KPX x atilde -34
+KPX x aring -34
+KPX x ccedilla -24
+KPX x eacute -24
+KPX x egrave -24
+KPX x ecircumflex -24
+KPX x edieresis -24
+KPX x oacute -75
+KPX x ograve -75
+KPX x ocircumflex -65
+KPX x odieresis -70
+KPX x otilde -48
+KPX x uacute -68
+KPX x ugrave -68
+KPX x ucircumflex -68
+KPX x udieresis -68
+KPX x ae -34
+KPX x Otilde -26
+KPX x OE -26
+KPX x oe -75
+KPX x ydieresis -73
+KPX x Ecircumflex -44
+KPX x Edieresis -44
+KPX x Egrave -44
+KPX x Oacute -26
+KPX x Ocircumflex -26
+KPX x Ograve -26
+
+KPX y t -32
+KPX y v -24
+KPX y Ccedilla -26
+KPX y Eacute -34
+KPX y Ecircumflex -34
+KPX y Edieresis -34
+KPX y Egrave -34
+
+KPX z Scaron -107
+KPX z Yacute -33
+KPX z f -50
+KPX z t -25
+KPX z x -20
+KPX z Adieresis -23
+KPX z Aring -23
+KPX z Ccedilla -21
+KPX z Eacute -37
+KPX z Ntilde -20
+KPX z AE -23
+KPX z Agrave -23
+KPX z Atilde -23
+KPX z Ydieresis -33
+KPX z Acircumflex -23
+KPX z Ecircumflex -37
+KPX z Aacute -23
+KPX z Edieresis -37
+KPX z Egrave -37
+KPX z Iacute -27
+KPX z Icircumflex -27
+KPX z Idieresis -27
+KPX z Igrave -27
+
+KPX Adieresis scaron -72
+KPX Adieresis Yacute -63
+KPX Adieresis Zcaron -49
+KPX Adieresis zcaron -86
+KPX Adieresis B -67
+KPX Adieresis C -43
+KPX Adieresis D -81
+KPX Adieresis E -42
+KPX Adieresis F -35
+KPX Adieresis G -49
+KPX Adieresis H -66
+KPX Adieresis I -60
+KPX Adieresis K -47
+KPX Adieresis L -53
+KPX Adieresis M -27
+KPX Adieresis N -44
+KPX Adieresis O -41
+KPX Adieresis P -52
+KPX Adieresis Q -42
+KPX Adieresis R -66
+KPX Adieresis T -125
+KPX Adieresis U -39
+KPX Adieresis V -76
+KPX Adieresis W -61
+KPX Adieresis X -59
+KPX Adieresis Y -63
+KPX Adieresis Z -49
+KPX Adieresis a -70
+KPX Adieresis b -48
+KPX Adieresis c -41
+KPX Adieresis d -54
+KPX Adieresis e -53
+KPX Adieresis f -84
+KPX Adieresis h -43
+KPX Adieresis i -41
+KPX Adieresis k -43
+KPX Adieresis l -48
+KPX Adieresis m -41
+KPX Adieresis n -44
+KPX Adieresis o -50
+KPX Adieresis q -54
+KPX Adieresis r -30
+KPX Adieresis s -72
+KPX Adieresis t -86
+KPX Adieresis u -61
+KPX Adieresis v -44
+KPX Adieresis w -49
+KPX Adieresis x -45
+KPX Adieresis z -86
+KPX Adieresis Ccedilla -43
+KPX Adieresis Eacute -42
+KPX Adieresis Ntilde -44
+KPX Adieresis Odieresis -41
+KPX Adieresis Udieresis -39
+KPX Adieresis aacute -70
+KPX Adieresis agrave -70
+KPX Adieresis acircumflex -70
+KPX Adieresis adieresis -70
+KPX Adieresis atilde -70
+KPX Adieresis aring -70
+KPX Adieresis ccedilla -41
+KPX Adieresis eacute -53
+KPX Adieresis egrave -53
+KPX Adieresis ecircumflex -53
+KPX Adieresis edieresis -53
+KPX Adieresis iacute -41
+KPX Adieresis igrave -41
+KPX Adieresis icircumflex -41
+KPX Adieresis idieresis -41
+KPX Adieresis ntilde -44
+KPX Adieresis oacute -50
+KPX Adieresis ograve -50
+KPX Adieresis ocircumflex -50
+KPX Adieresis odieresis -50
+KPX Adieresis otilde -50
+KPX Adieresis uacute -61
+KPX Adieresis ugrave -61
+KPX Adieresis ucircumflex -61
+KPX Adieresis udieresis -61
+KPX Adieresis ae -70
+KPX Adieresis Otilde -41
+KPX Adieresis OE -41
+KPX Adieresis oe -50
+KPX Adieresis Ydieresis -63
+KPX Adieresis Ecircumflex -42
+KPX Adieresis Edieresis -42
+KPX Adieresis Egrave -42
+KPX Adieresis Iacute -60
+KPX Adieresis Icircumflex -60
+KPX Adieresis Idieresis -60
+KPX Adieresis Igrave -48
+KPX Adieresis Oacute -41
+KPX Adieresis Ocircumflex -41
+KPX Adieresis Ograve -41
+KPX Adieresis Uacute -39
+KPX Adieresis Ucircumflex -39
+KPX Adieresis Ugrave -39
+KPX Adieresis dotlessi -41
+
+KPX Aring scaron -72
+KPX Aring Yacute -63
+KPX Aring Zcaron -49
+KPX Aring zcaron -86
+KPX Aring B -67
+KPX Aring C -43
+KPX Aring D -81
+KPX Aring E -42
+KPX Aring F -35
+KPX Aring G -49
+KPX Aring H -66
+KPX Aring I -60
+KPX Aring K -47
+KPX Aring L -53
+KPX Aring M -27
+KPX Aring N -44
+KPX Aring O -41
+KPX Aring P -52
+KPX Aring Q -42
+KPX Aring R -66
+KPX Aring T -125
+KPX Aring U -39
+KPX Aring V -76
+KPX Aring W -61
+KPX Aring X -59
+KPX Aring Y -63
+KPX Aring Z -49
+KPX Aring a -70
+KPX Aring b -48
+KPX Aring c -41
+KPX Aring d -54
+KPX Aring e -53
+KPX Aring f -84
+KPX Aring h -43
+KPX Aring i -41
+KPX Aring k -43
+KPX Aring l -48
+KPX Aring m -41
+KPX Aring n -44
+KPX Aring o -50
+KPX Aring q -54
+KPX Aring r -30
+KPX Aring s -72
+KPX Aring t -86
+KPX Aring u -61
+KPX Aring v -44
+KPX Aring w -49
+KPX Aring x -45
+KPX Aring z -86
+KPX Aring Ccedilla -43
+KPX Aring Eacute -42
+KPX Aring Ntilde -44
+KPX Aring Odieresis -41
+KPX Aring Udieresis -39
+KPX Aring aacute -70
+KPX Aring agrave -70
+KPX Aring acircumflex -70
+KPX Aring adieresis -70
+KPX Aring atilde -70
+KPX Aring aring -70
+KPX Aring ccedilla -41
+KPX Aring eacute -53
+KPX Aring egrave -53
+KPX Aring ecircumflex -53
+KPX Aring edieresis -53
+KPX Aring iacute -41
+KPX Aring igrave -41
+KPX Aring icircumflex -41
+KPX Aring idieresis -41
+KPX Aring ntilde -44
+KPX Aring oacute -50
+KPX Aring ograve -50
+KPX Aring ocircumflex -50
+KPX Aring odieresis -50
+KPX Aring otilde -50
+KPX Aring uacute -61
+KPX Aring ugrave -61
+KPX Aring ucircumflex -61
+KPX Aring udieresis -61
+KPX Aring ae -70
+KPX Aring Otilde -41
+KPX Aring OE -41
+KPX Aring oe -50
+KPX Aring Ydieresis -63
+KPX Aring Ecircumflex -42
+KPX Aring Edieresis -42
+KPX Aring Egrave -42
+KPX Aring Iacute -60
+KPX Aring Icircumflex -60
+KPX Aring Idieresis -60
+KPX Aring Igrave -60
+KPX Aring Oacute -41
+KPX Aring Ocircumflex -41
+KPX Aring Ograve -41
+KPX Aring Uacute -39
+KPX Aring Ucircumflex -39
+KPX Aring Ugrave -39
+KPX Aring dotlessi -41
+
+KPX Ccedilla O -22
+KPX Ccedilla c -36
+KPX Ccedilla d -20
+KPX Ccedilla e -21
+KPX Ccedilla f -25
+KPX Ccedilla m -125
+KPX Ccedilla o -23
+KPX Ccedilla q -77
+KPX Ccedilla r -114
+KPX Ccedilla t -23
+KPX Ccedilla u -54
+KPX Ccedilla v -47
+KPX Ccedilla w -31
+KPX Ccedilla y -75
+KPX Ccedilla Odieresis -22
+KPX Ccedilla ccedilla -36
+KPX Ccedilla eacute -21
+KPX Ccedilla ecircumflex -21
+KPX Ccedilla iacute -28
+KPX Ccedilla icircumflex -21
+KPX Ccedilla idieresis -21
+KPX Ccedilla oacute -23
+KPX Ccedilla ocircumflex -23
+KPX Ccedilla odieresis -23
+KPX Ccedilla uacute -54
+KPX Ccedilla Otilde -22
+KPX Ccedilla OE -21
+KPX Ccedilla oe -23
+KPX Ccedilla Oacute -22
+KPX Ccedilla Ocircumflex -22
+KPX Ccedilla Ograve -22
+KPX Ccedilla dotlessi -28
+
+KPX Eacute C -29
+KPX Eacute E -21
+KPX Eacute G -21
+KPX Eacute T -71
+KPX Eacute W -21
+KPX Eacute f -44
+KPX Eacute m -26
+KPX Eacute v -21
+KPX Eacute Ccedilla -29
+KPX Eacute Eacute -21
+KPX Eacute Ecircumflex -21
+KPX Eacute Edieresis -21
+
+KPX Ntilde yacute -46
+KPX Ntilde Zcaron -20
+KPX Ntilde zcaron -55
+KPX Ntilde A -49
+KPX Ntilde C -25
+KPX Ntilde G -35
+KPX Ntilde O -64
+KPX Ntilde Q -30
+KPX Ntilde Z -20
+KPX Ntilde a -51
+KPX Ntilde b -39
+KPX Ntilde c -64
+KPX Ntilde d -50
+KPX Ntilde e -60
+KPX Ntilde f -27
+KPX Ntilde g -56
+KPX Ntilde i -61
+KPX Ntilde k -26
+KPX Ntilde m -61
+KPX Ntilde n -41
+KPX Ntilde o -55
+KPX Ntilde p -42
+KPX Ntilde q -58
+KPX Ntilde r -54
+KPX Ntilde s -45
+KPX Ntilde u -61
+KPX Ntilde v -51
+KPX Ntilde w -61
+KPX Ntilde y -52
+KPX Ntilde z -55
+KPX Ntilde Adieresis -49
+KPX Ntilde Aring -33
+KPX Ntilde Ccedilla -25
+KPX Ntilde aacute -51
+KPX Ntilde agrave -50
+KPX Ntilde acircumflex -51
+KPX Ntilde adieresis -51
+KPX Ntilde atilde -51
+KPX Ntilde aring -51
+KPX Ntilde ccedilla -64
+KPX Ntilde eacute -60
+KPX Ntilde ecircumflex -51
+KPX Ntilde edieresis -49
+KPX Ntilde iacute -64
+KPX Ntilde igrave -21
+KPX Ntilde icircumflex -41
+KPX Ntilde idieresis -40
+KPX Ntilde ntilde -41
+KPX Ntilde oacute -55
+KPX Ntilde ograve -31
+KPX Ntilde ocircumflex -55
+KPX Ntilde odieresis -55
+KPX Ntilde otilde -38
+KPX Ntilde uacute -61
+KPX Ntilde ucircumflex -33
+KPX Ntilde udieresis -59
+KPX Ntilde AE -49
+KPX Ntilde ae -52
+KPX Ntilde Agrave -49
+KPX Ntilde Atilde -49
+KPX Ntilde OE -64
+KPX Ntilde oe -55
+KPX Ntilde Acircumflex -49
+KPX Ntilde Aacute -49
+KPX Ntilde Oacute -60
+KPX Ntilde dotlessi -64
+
+KPX Odieresis Scaron -28
+KPX Odieresis B -29
+KPX Odieresis D -40
+KPX Odieresis S -28
+KPX Odieresis T -29
+KPX Odieresis X -44
+
+KPX aacute T -45
+KPX aacute j -28
+KPX aacute u -20
+KPX aacute uacute -20
+
+KPX agrave Scaron -72
+KPX agrave H -20
+KPX agrave I -20
+KPX agrave J -37
+KPX agrave R -26
+KPX agrave S -72
+KPX agrave T -99
+KPX agrave V -36
+KPX agrave W -21
+KPX agrave X -28
+KPX agrave j -39
+KPX agrave t -38
+KPX agrave u -20
+KPX agrave uacute -20
+KPX agrave ugrave -20
+KPX agrave ucircumflex -20
+KPX agrave udieresis -20
+KPX agrave Iacute -20
+KPX agrave Icircumflex -20
+KPX agrave Idieresis -20
+KPX agrave Igrave -20
+
+KPX acircumflex Scaron -31
+KPX acircumflex H -20
+KPX acircumflex J -25
+KPX acircumflex S -31
+KPX acircumflex T -80
+KPX acircumflex X -28
+KPX acircumflex j -28
+
+KPX adieresis T -48
+KPX adieresis j -28
+
+KPX atilde T -44
+
+KPX aring Scaron -29
+KPX aring H -20
+KPX aring J -25
+KPX aring R -25
+KPX aring S -29
+KPX aring T -78
+KPX aring X -28
+KPX aring j -28
+
+KPX ccedilla Scaron -58
+KPX ccedilla H -26
+KPX ccedilla S -58
+KPX ccedilla T -98
+KPX ccedilla V -37
+KPX ccedilla W -22
+
+KPX eacute A -21
+KPX eacute B -21
+KPX eacute H -27
+KPX eacute f -28
+KPX eacute j -38
+KPX eacute t -25
+KPX eacute Adieresis -21
+KPX eacute Aring -21
+KPX eacute AE -21
+KPX eacute Agrave -21
+KPX eacute Atilde -21
+KPX eacute Acircumflex -21
+KPX eacute Aacute -21
+
+KPX egrave Scaron -102
+KPX egrave A -21
+KPX egrave B -21
+KPX egrave E -39
+KPX egrave F -25
+KPX egrave H -42
+KPX egrave I -22
+KPX egrave L -21
+KPX egrave R -29
+KPX egrave S -102
+KPX egrave T -112
+KPX egrave V -73
+KPX egrave W -35
+KPX egrave X -23
+KPX egrave f -48
+KPX egrave t -27
+KPX egrave Adieresis -21
+KPX egrave Aring -21
+KPX egrave Eacute -39
+KPX egrave AE -21
+KPX egrave Agrave -21
+KPX egrave Atilde -21
+KPX egrave Acircumflex -21
+KPX egrave Ecircumflex -39
+KPX egrave Aacute -21
+KPX egrave Edieresis -39
+KPX egrave Egrave -39
+KPX egrave Iacute -22
+KPX egrave Icircumflex -22
+KPX egrave Idieresis -22
+KPX egrave Igrave -22
+
+KPX ecircumflex Scaron -58
+KPX ecircumflex A -21
+KPX ecircumflex B -21
+KPX ecircumflex E -39
+KPX ecircumflex F -25
+KPX ecircumflex H -42
+KPX ecircumflex I -22
+KPX ecircumflex J -44
+KPX ecircumflex L -21
+KPX ecircumflex R -29
+KPX ecircumflex S -58
+KPX ecircumflex T -88
+KPX ecircumflex V -38
+KPX ecircumflex W -31
+KPX ecircumflex X -23
+KPX ecircumflex f -48
+KPX ecircumflex t -26
+KPX ecircumflex Adieresis -21
+KPX ecircumflex Aring -21
+KPX ecircumflex Eacute -39
+KPX ecircumflex AE -21
+KPX ecircumflex Agrave -21
+KPX ecircumflex Atilde -21
+KPX ecircumflex Acircumflex -21
+KPX ecircumflex Ecircumflex -39
+KPX ecircumflex Aacute -21
+KPX ecircumflex Edieresis -39
+KPX ecircumflex Egrave -39
+KPX ecircumflex Iacute -22
+KPX ecircumflex Icircumflex -22
+KPX ecircumflex Idieresis -22
+KPX ecircumflex Igrave -22
+
+KPX edieresis A -21
+KPX edieresis B -21
+KPX edieresis E -21
+KPX edieresis H -29
+KPX edieresis R -24
+KPX edieresis T -73
+KPX edieresis X -23
+KPX edieresis f -45
+KPX edieresis t -27
+KPX edieresis Adieresis -21
+KPX edieresis Aring -21
+KPX edieresis Eacute -21
+KPX edieresis AE -21
+KPX edieresis Agrave -21
+KPX edieresis Atilde -21
+KPX edieresis Acircumflex -21
+KPX edieresis Ecircumflex -21
+KPX edieresis Aacute -21
+KPX edieresis Edieresis -21
+KPX edieresis Egrave -21
+
+KPX igrave Scaron -26
+KPX igrave B -21
+KPX igrave D -31
+KPX igrave S -26
+KPX igrave T -45
+KPX igrave X -31
+
+KPX icircumflex T -43
+
+KPX ntilde D -27
+KPX ntilde f -24
+
+KPX oacute j -24
+KPX oacute z -24
+
+KPX ograve Scaron -78
+KPX ograve Yacute -31
+KPX ograve zcaron -24
+KPX ograve B -56
+KPX ograve D -52
+KPX ograve H -27
+KPX ograve I -28
+KPX ograve J -49
+KPX ograve L -22
+KPX ograve R -27
+KPX ograve S -78
+KPX ograve T -96
+KPX ograve V -50
+KPX ograve W -34
+KPX ograve X -49
+KPX ograve Y -31
+KPX ograve f -26
+KPX ograve t -30
+KPX ograve z -24
+KPX ograve Ydieresis -31
+KPX ograve Iacute -28
+KPX ograve Icircumflex -28
+KPX ograve Idieresis -28
+KPX ograve Igrave -28
+
+KPX ocircumflex Scaron -39
+KPX ocircumflex zcaron -24
+KPX ocircumflex B -44
+KPX ocircumflex D -52
+KPX ocircumflex H -27
+KPX ocircumflex I -21
+KPX ocircumflex J -25
+KPX ocircumflex R -27
+KPX ocircumflex S -39
+KPX ocircumflex T -72
+KPX ocircumflex V -20
+KPX ocircumflex X -49
+KPX ocircumflex f -26
+KPX ocircumflex j -27
+KPX ocircumflex z -24
+KPX ocircumflex Iacute -21
+KPX ocircumflex Icircumflex -21
+KPX ocircumflex Idieresis -21
+KPX ocircumflex Igrave -21
+
+KPX odieresis D -30
+KPX odieresis T -54
+KPX odieresis f -26
+KPX odieresis j -28
+KPX odieresis z -24
+
+KPX otilde D -31
+KPX otilde T -55
+KPX otilde f -26
+KPX otilde z -24
+
+KPX uacute G -21
+KPX uacute H -21
+KPX uacute f -27
+
+KPX ugrave Scaron -64
+KPX ugrave B -49
+KPX ugrave C -26
+KPX ugrave E -26
+KPX ugrave G -21
+KPX ugrave H -28
+KPX ugrave S -64
+KPX ugrave T -95
+KPX ugrave V -46
+KPX ugrave W -21
+KPX ugrave f -27
+KPX ugrave Ccedilla -26
+KPX ugrave Eacute -26
+KPX ugrave Ecircumflex -26
+KPX ugrave Edieresis -26
+KPX ugrave Egrave -26
+
+KPX ucircumflex Scaron -41
+KPX ucircumflex B -49
+KPX ucircumflex C -26
+KPX ucircumflex E -26
+KPX ucircumflex G -21
+KPX ucircumflex H -28
+KPX ucircumflex S -41
+KPX ucircumflex T -48
+KPX ucircumflex V -29
+KPX ucircumflex W -21
+KPX ucircumflex f -27
+KPX ucircumflex Ccedilla -26
+KPX ucircumflex Eacute -26
+KPX ucircumflex Ecircumflex -26
+KPX ucircumflex Edieresis -26
+KPX ucircumflex Egrave -26
+
+KPX udieresis B -43
+KPX udieresis E -26
+KPX udieresis G -21
+KPX udieresis H -28
+KPX udieresis f -27
+KPX udieresis Eacute -26
+KPX udieresis Ecircumflex -26
+KPX udieresis Edieresis -26
+KPX udieresis Egrave -26
+
+KPX AE C -40
+KPX AE G -37
+KPX AE O -20
+KPX AE T -29
+KPX AE c -23
+KPX AE f -39
+KPX AE m -53
+KPX AE q -58
+KPX AE r -42
+KPX AE t -25
+KPX AE u -46
+KPX AE v -40
+KPX AE Ccedilla -40
+KPX AE Odieresis -20
+KPX AE ccedilla -23
+KPX AE uacute -46
+KPX AE ucircumflex -46
+KPX AE udieresis -46
+KPX AE Otilde -20
+KPX AE OE -20
+KPX AE Oacute -20
+KPX AE Ocircumflex -20
+KPX AE Ograve -20
+
+KPX ae Scaron -136
+KPX ae C -27
+KPX ae E -40
+KPX ae G -23
+KPX ae H -35
+KPX ae I -21
+KPX ae R -26
+KPX ae S -136
+KPX ae T -107
+KPX ae V -76
+KPX ae W -32
+KPX ae f -46
+KPX ae m -23
+KPX ae t -26
+KPX ae Ccedilla -27
+KPX ae Eacute -40
+KPX ae Ecircumflex -40
+KPX ae Edieresis -40
+KPX ae Egrave -40
+KPX ae Iacute -21
+KPX ae Icircumflex -21
+KPX ae Idieresis -21
+KPX ae Igrave -21
+
+KPX Agrave scaron -72
+KPX Agrave Yacute -63
+KPX Agrave Zcaron -49
+KPX Agrave zcaron -86
+KPX Agrave B -67
+KPX Agrave C -43
+KPX Agrave D -81
+KPX Agrave E -42
+KPX Agrave F -35
+KPX Agrave G -49
+KPX Agrave H -66
+KPX Agrave I -60
+KPX Agrave K -47
+KPX Agrave L -53
+KPX Agrave M -27
+KPX Agrave N -44
+KPX Agrave O -41
+KPX Agrave P -52
+KPX Agrave Q -42
+KPX Agrave R -66
+KPX Agrave T -125
+KPX Agrave U -39
+KPX Agrave V -76
+KPX Agrave W -61
+KPX Agrave X -59
+KPX Agrave Y -63
+KPX Agrave Z -49
+KPX Agrave a -70
+KPX Agrave b -48
+KPX Agrave c -41
+KPX Agrave d -54
+KPX Agrave e -53
+KPX Agrave f -84
+KPX Agrave h -43
+KPX Agrave i -41
+KPX Agrave k -43
+KPX Agrave l -48
+KPX Agrave m -41
+KPX Agrave n -44
+KPX Agrave o -50
+KPX Agrave q -54
+KPX Agrave r -30
+KPX Agrave s -72
+KPX Agrave t -86
+KPX Agrave u -61
+KPX Agrave v -44
+KPX Agrave w -49
+KPX Agrave x -45
+KPX Agrave z -86
+KPX Agrave Ccedilla -43
+KPX Agrave Eacute -42
+KPX Agrave Ntilde -44
+KPX Agrave Odieresis -41
+KPX Agrave Udieresis -39
+KPX Agrave aacute -70
+KPX Agrave agrave -70
+KPX Agrave acircumflex -70
+KPX Agrave adieresis -70
+KPX Agrave atilde -70
+KPX Agrave aring -70
+KPX Agrave ccedilla -41
+KPX Agrave eacute -53
+KPX Agrave egrave -53
+KPX Agrave ecircumflex -53
+KPX Agrave edieresis -53
+KPX Agrave iacute -41
+KPX Agrave igrave -41
+KPX Agrave icircumflex -41
+KPX Agrave idieresis -41
+KPX Agrave ntilde -44
+KPX Agrave oacute -50
+KPX Agrave ograve -50
+KPX Agrave ocircumflex -50
+KPX Agrave odieresis -50
+KPX Agrave otilde -50
+KPX Agrave uacute -61
+KPX Agrave ugrave -61
+KPX Agrave ucircumflex -61
+KPX Agrave udieresis -61
+KPX Agrave ae -70
+KPX Agrave Otilde -41
+KPX Agrave OE -41
+KPX Agrave oe -50
+KPX Agrave Ydieresis -63
+KPX Agrave Ecircumflex -42
+KPX Agrave Edieresis -42
+KPX Agrave Egrave -42
+KPX Agrave Iacute -60
+KPX Agrave Icircumflex -60
+KPX Agrave Idieresis -60
+KPX Agrave Igrave -60
+KPX Agrave Oacute -41
+KPX Agrave Ocircumflex -41
+KPX Agrave Ograve -41
+KPX Agrave Uacute -39
+KPX Agrave Ucircumflex -39
+KPX Agrave Ugrave -39
+KPX Agrave dotlessi -41
+
+KPX Atilde scaron -72
+KPX Atilde Yacute -63
+KPX Atilde Zcaron -49
+KPX Atilde zcaron -86
+KPX Atilde B -67
+KPX Atilde C -43
+KPX Atilde D -81
+KPX Atilde E -42
+KPX Atilde F -35
+KPX Atilde G -49
+KPX Atilde H -66
+KPX Atilde I -60
+KPX Atilde K -47
+KPX Atilde L -53
+KPX Atilde M -27
+KPX Atilde N -44
+KPX Atilde O -41
+KPX Atilde P -52
+KPX Atilde Q -42
+KPX Atilde R -66
+KPX Atilde T -125
+KPX Atilde U -39
+KPX Atilde V -76
+KPX Atilde W -61
+KPX Atilde X -59
+KPX Atilde Y -63
+KPX Atilde Z -49
+KPX Atilde a -70
+KPX Atilde b -48
+KPX Atilde c -41
+KPX Atilde d -54
+KPX Atilde e -53
+KPX Atilde f -84
+KPX Atilde h -43
+KPX Atilde i -41
+KPX Atilde k -43
+KPX Atilde l -48
+KPX Atilde m -41
+KPX Atilde n -44
+KPX Atilde o -50
+KPX Atilde q -54
+KPX Atilde r -30
+KPX Atilde s -72
+KPX Atilde t -86
+KPX Atilde u -61
+KPX Atilde v -44
+KPX Atilde w -49
+KPX Atilde x -45
+KPX Atilde z -86
+KPX Atilde Ccedilla -43
+KPX Atilde Eacute -42
+KPX Atilde Ntilde -44
+KPX Atilde Odieresis -41
+KPX Atilde Udieresis -39
+KPX Atilde aacute -70
+KPX Atilde agrave -70
+KPX Atilde acircumflex -70
+KPX Atilde adieresis -70
+KPX Atilde atilde -70
+KPX Atilde aring -70
+KPX Atilde ccedilla -41
+KPX Atilde eacute -53
+KPX Atilde egrave -53
+KPX Atilde ecircumflex -53
+KPX Atilde edieresis -53
+KPX Atilde iacute -41
+KPX Atilde igrave -41
+KPX Atilde icircumflex -41
+KPX Atilde idieresis -41
+KPX Atilde ntilde -44
+KPX Atilde oacute -50
+KPX Atilde ograve -50
+KPX Atilde ocircumflex -50
+KPX Atilde odieresis -50
+KPX Atilde otilde -50
+KPX Atilde uacute -61
+KPX Atilde ugrave -61
+KPX Atilde ucircumflex -61
+KPX Atilde udieresis -61
+KPX Atilde ae -70
+KPX Atilde Otilde -41
+KPX Atilde OE -41
+KPX Atilde oe -50
+KPX Atilde Ydieresis -63
+KPX Atilde Ecircumflex -42
+KPX Atilde Edieresis -42
+KPX Atilde Egrave -42
+KPX Atilde Iacute -60
+KPX Atilde Icircumflex -60
+KPX Atilde Idieresis -60
+KPX Atilde Igrave -41
+KPX Atilde Oacute -41
+KPX Atilde Ocircumflex -41
+KPX Atilde Ograve -41
+KPX Atilde Uacute -39
+KPX Atilde Ucircumflex -39
+KPX Atilde Ugrave -39
+KPX Atilde dotlessi -41
+
+KPX Otilde Scaron -28
+KPX Otilde B -29
+KPX Otilde D -40
+KPX Otilde S -28
+KPX Otilde T -29
+KPX Otilde X -44
+
+KPX OE yacute -51
+KPX OE C -32
+KPX OE G -39
+KPX OE c -31
+KPX OE f -32
+KPX OE m -49
+KPX OE q -53
+KPX OE r -38
+KPX OE t -30
+KPX OE u -68
+KPX OE v -47
+KPX OE w -23
+KPX OE y -51
+KPX OE Ccedilla -32
+KPX OE ccedilla -31
+KPX OE uacute -68
+KPX OE ucircumflex -37
+KPX OE udieresis -68
+
+KPX oe Scaron -125
+KPX oe C -20
+KPX oe E -36
+KPX oe F -23
+KPX oe H -38
+KPX oe I -20
+KPX oe R -25
+KPX oe S -125
+KPX oe T -109
+KPX oe V -73
+KPX oe W -32
+KPX oe X -20
+KPX oe f -49
+KPX oe t -24
+KPX oe Ccedilla -20
+KPX oe Eacute -36
+KPX oe Ecircumflex -36
+KPX oe Edieresis -36
+KPX oe Egrave -36
+KPX oe Iacute -20
+KPX oe Icircumflex -20
+KPX oe Idieresis -20
+KPX oe Igrave -20
+
+KPX ydieresis C -25
+KPX ydieresis E -24
+KPX ydieresis G -29
+KPX ydieresis t -32
+KPX ydieresis v -24
+KPX ydieresis Ccedilla -25
+KPX ydieresis Eacute -24
+KPX ydieresis Ecircumflex -24
+KPX ydieresis Edieresis -24
+KPX ydieresis Egrave -24
+
+KPX Acircumflex scaron -72
+KPX Acircumflex Yacute -63
+KPX Acircumflex Zcaron -49
+KPX Acircumflex zcaron -86
+KPX Acircumflex B -67
+KPX Acircumflex C -43
+KPX Acircumflex D -81
+KPX Acircumflex E -42
+KPX Acircumflex F -35
+KPX Acircumflex G -49
+KPX Acircumflex H -66
+KPX Acircumflex I -60
+KPX Acircumflex K -47
+KPX Acircumflex L -53
+KPX Acircumflex M -27
+KPX Acircumflex N -44
+KPX Acircumflex O -41
+KPX Acircumflex P -52
+KPX Acircumflex Q -42
+KPX Acircumflex R -66
+KPX Acircumflex T -125
+KPX Acircumflex U -39
+KPX Acircumflex V -76
+KPX Acircumflex W -61
+KPX Acircumflex X -59
+KPX Acircumflex Y -63
+KPX Acircumflex Z -49
+KPX Acircumflex a -70
+KPX Acircumflex b -48
+KPX Acircumflex c -41
+KPX Acircumflex d -54
+KPX Acircumflex e -53
+KPX Acircumflex f -84
+KPX Acircumflex h -43
+KPX Acircumflex i -41
+KPX Acircumflex k -43
+KPX Acircumflex l -48
+KPX Acircumflex m -41
+KPX Acircumflex n -44
+KPX Acircumflex o -50
+KPX Acircumflex q -54
+KPX Acircumflex r -30
+KPX Acircumflex s -72
+KPX Acircumflex t -86
+KPX Acircumflex u -61
+KPX Acircumflex v -44
+KPX Acircumflex w -49
+KPX Acircumflex x -45
+KPX Acircumflex z -86
+KPX Acircumflex Ccedilla -43
+KPX Acircumflex Eacute -42
+KPX Acircumflex Ntilde -44
+KPX Acircumflex Odieresis -41
+KPX Acircumflex Udieresis -39
+KPX Acircumflex aacute -70
+KPX Acircumflex agrave -70
+KPX Acircumflex acircumflex -70
+KPX Acircumflex adieresis -70
+KPX Acircumflex atilde -70
+KPX Acircumflex aring -70
+KPX Acircumflex ccedilla -41
+KPX Acircumflex eacute -53
+KPX Acircumflex egrave -53
+KPX Acircumflex ecircumflex -53
+KPX Acircumflex edieresis -53
+KPX Acircumflex iacute -41
+KPX Acircumflex igrave -41
+KPX Acircumflex icircumflex -41
+KPX Acircumflex idieresis -41
+KPX Acircumflex ntilde -44
+KPX Acircumflex oacute -50
+KPX Acircumflex ograve -50
+KPX Acircumflex ocircumflex -50
+KPX Acircumflex odieresis -50
+KPX Acircumflex otilde -50
+KPX Acircumflex uacute -61
+KPX Acircumflex ugrave -61
+KPX Acircumflex ucircumflex -61
+KPX Acircumflex udieresis -61
+KPX Acircumflex ae -70
+KPX Acircumflex Otilde -41
+KPX Acircumflex OE -41
+KPX Acircumflex oe -50
+KPX Acircumflex Ydieresis -63
+KPX Acircumflex Ecircumflex -42
+KPX Acircumflex Edieresis -42
+KPX Acircumflex Egrave -42
+KPX Acircumflex Iacute -60
+KPX Acircumflex Icircumflex -60
+KPX Acircumflex Idieresis -60
+KPX Acircumflex Igrave -60
+KPX Acircumflex Oacute -41
+KPX Acircumflex Ocircumflex -41
+KPX Acircumflex Ograve -41
+KPX Acircumflex Uacute -39
+KPX Acircumflex Ucircumflex -39
+KPX Acircumflex Ugrave -39
+KPX Acircumflex dotlessi -41
+
+KPX Ecircumflex C -29
+KPX Ecircumflex E -21
+KPX Ecircumflex G -21
+KPX Ecircumflex T -71
+KPX Ecircumflex W -21
+KPX Ecircumflex f -44
+KPX Ecircumflex m -26
+KPX Ecircumflex v -21
+KPX Ecircumflex Ccedilla -29
+KPX Ecircumflex Eacute -21
+KPX Ecircumflex Ecircumflex -21
+KPX Ecircumflex Edieresis -21
+KPX Ecircumflex Egrave -21
+
+KPX Aacute scaron -72
+KPX Aacute Yacute -63
+KPX Aacute Zcaron -49
+KPX Aacute zcaron -86
+KPX Aacute B -67
+KPX Aacute C -43
+KPX Aacute D -81
+KPX Aacute E -42
+KPX Aacute F -35
+KPX Aacute G -49
+KPX Aacute H -66
+KPX Aacute I -60
+KPX Aacute K -47
+KPX Aacute L -53
+KPX Aacute M -27
+KPX Aacute N -44
+KPX Aacute O -41
+KPX Aacute P -52
+KPX Aacute Q -42
+KPX Aacute R -66
+KPX Aacute T -125
+KPX Aacute U -39
+KPX Aacute V -76
+KPX Aacute W -61
+KPX Aacute X -59
+KPX Aacute Y -63
+KPX Aacute Z -49
+KPX Aacute a -70
+KPX Aacute b -48
+KPX Aacute c -41
+KPX Aacute d -54
+KPX Aacute e -53
+KPX Aacute f -84
+KPX Aacute h -43
+KPX Aacute i -41
+KPX Aacute k -43
+KPX Aacute l -48
+KPX Aacute m -41
+KPX Aacute n -44
+KPX Aacute o -50
+KPX Aacute q -54
+KPX Aacute r -30
+KPX Aacute s -72
+KPX Aacute t -86
+KPX Aacute u -61
+KPX Aacute v -44
+KPX Aacute w -49
+KPX Aacute x -45
+KPX Aacute z -86
+KPX Aacute Ccedilla -43
+KPX Aacute Eacute -42
+KPX Aacute Ntilde -44
+KPX Aacute Odieresis -41
+KPX Aacute Udieresis -39
+KPX Aacute aacute -70
+KPX Aacute agrave -70
+KPX Aacute acircumflex -70
+KPX Aacute adieresis -70
+KPX Aacute atilde -70
+KPX Aacute aring -70
+KPX Aacute ccedilla -41
+KPX Aacute eacute -53
+KPX Aacute egrave -53
+KPX Aacute ecircumflex -53
+KPX Aacute edieresis -53
+KPX Aacute iacute -41
+KPX Aacute igrave -41
+KPX Aacute icircumflex -41
+KPX Aacute idieresis -41
+KPX Aacute ntilde -44
+KPX Aacute oacute -50
+KPX Aacute ograve -50
+KPX Aacute ocircumflex -50
+KPX Aacute odieresis -50
+KPX Aacute otilde -50
+KPX Aacute uacute -61
+KPX Aacute ugrave -61
+KPX Aacute ucircumflex -61
+KPX Aacute udieresis -61
+KPX Aacute ae -70
+KPX Aacute Otilde -41
+KPX Aacute OE -41
+KPX Aacute oe -50
+KPX Aacute Ydieresis -63
+KPX Aacute Ecircumflex -42
+KPX Aacute Edieresis -42
+KPX Aacute Egrave -42
+KPX Aacute Iacute -60
+KPX Aacute Icircumflex -60
+KPX Aacute Idieresis -60
+KPX Aacute Igrave -56
+KPX Aacute Oacute -41
+KPX Aacute Ocircumflex -41
+KPX Aacute Ograve -41
+KPX Aacute Uacute -39
+KPX Aacute Ucircumflex -39
+KPX Aacute Ugrave -39
+KPX Aacute dotlessi -41
+
+KPX Edieresis C -29
+KPX Edieresis E -21
+KPX Edieresis G -21
+KPX Edieresis T -71
+KPX Edieresis W -21
+KPX Edieresis f -44
+KPX Edieresis m -26
+KPX Edieresis v -21
+KPX Edieresis Ccedilla -29
+KPX Edieresis Eacute -21
+KPX Edieresis Ecircumflex -21
+KPX Edieresis Edieresis -21
+KPX Edieresis Egrave -21
+
+KPX Egrave C -29
+KPX Egrave E -21
+KPX Egrave G -21
+KPX Egrave T -71
+KPX Egrave W -21
+KPX Egrave f -44
+KPX Egrave m -26
+KPX Egrave v -21
+KPX Egrave Ccedilla -29
+KPX Egrave Eacute -21
+KPX Egrave Ecircumflex -21
+KPX Egrave Edieresis -21
+KPX Egrave Egrave -21
+
+KPX Oacute Scaron -28
+KPX Oacute B -37
+KPX Oacute D -40
+KPX Oacute R -20
+KPX Oacute S -28
+KPX Oacute T -29
+KPX Oacute X -44
+
+KPX Ocircumflex Scaron -28
+KPX Ocircumflex B -37
+KPX Ocircumflex D -40
+KPX Ocircumflex S -28
+KPX Ocircumflex T -29
+KPX Ocircumflex X -44
+
+KPX Ograve Scaron -28
+KPX Ograve B -37
+KPX Ograve D -40
+KPX Ograve R -20
+KPX Ograve S -28
+KPX Ograve T -29
+KPX Ograve X -44
+
+KPX dotlessi Scaron -96
+KPX dotlessi B -21
+KPX dotlessi D -31
+KPX dotlessi S -96
+KPX dotlessi T -116
+KPX dotlessi V -29
+KPX dotlessi X -31
+KPX dotlessi t -32
+
+EndKernPairs
+EndKernData
+EndFontMetrics
