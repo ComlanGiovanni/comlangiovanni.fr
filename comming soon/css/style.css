@@ -3,6 +3,10 @@
     src: url(GrandHotel-Regular.otf);
 }
 
+body {
+	background-color: #ecf0f1;
+}
+
 .commingsoon {
     padding-top: 20px;
     text-align: center;

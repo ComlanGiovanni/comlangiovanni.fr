@@ -14,13 +14,13 @@
 }
 
 html {
-    cursor: url('/images/cursor/pointer@4x.png'), pointer;
+    cursor: url('images/cursor/pointer4x.png'), pointer;
 }
 
 body {
     padding-top: 20px;
     background-color: beige;
-    cursor: url('/images/cursor/pointer@4x.png'), pointer;
+    cursor: url('images/cursor/pointer4x.png'), pointer;
 }
 
 .tba {
@@ -34,7 +34,7 @@ body {
 .tba:hover {
     -webkit-filter: blur(2px); /* Chrome, Safari, Opera */
     filter: blur(2px);
-    cursor: url('/images/cursor/pointer@4x.png'), pointer;
+    cursor: url('images/cursor/pointer4x.png'), pointer;
 }
 
 .photoac{
@@ -52,23 +52,32 @@ body {
     text-align: center;
 }
 
+.navbar .navbar-inverse {
+    display: inline-block;
+    float: none;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
 .navbar-inverse .navbar-brand{
     color: white;
 }
 
 .navbar-inverse .navbar-brand:hover{
     color: black;
-    cursor: url('/images/cursor/pointer@4x.png'), pointer;
+    cursor: url('images/cursor/pointer4x.png'), pointer;
 }
 
 .navbar-nav > li > a{
     color: white;
-    cursor: url('/images/cursor/pointer@4x.png'), pointer;
+    cursor: url('images/cursor/pointer4x.png'), pointer;
 }
 
 .navbar-nav > li > a:hover{
     color: white;
-    cursor: url('/images/cursor/pointer@4x.png'), pointer;
+    cursor: url('images/cursor/pointer4x.png'), pointer;
 }
 
 .navbar-inverse .navbar-toggle {
@@ -77,7 +86,7 @@ body {
 
 .navbar-inverse .navbar-toggle:hover {
     border-color : white;
-    cursor: url('/images/cursor/pointer@4x.png'), pointer;
+    cursor: url('images/cursor/pointer@4x.png'), pointer;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
@@ -118,5 +127,5 @@ p {
 .taillesocialicon:hover {
     -webkit-filter: blur(2px); /* Chrome, Safari, Opera */
     filter: blur(2px);
-    cursor: url('/images/cursor/pointer@4x.png'), pointer;
+    cursor: url('images/cursor/pointer@4x.png'), pointer;
 }
