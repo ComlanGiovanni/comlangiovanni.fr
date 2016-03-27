@@ -22,3 +22,7 @@ body {
     text-align: center;
     margin: auto;
 }
+
+.senddnes:hover{
+    color: red;
+}
