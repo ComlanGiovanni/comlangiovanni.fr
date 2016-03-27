@@ -26,3 +26,23 @@ body {
 .senddnes:hover{
     color: red;
 }
+
+.alert-danger{
+    text-align: center;
+}
+.alert-success{
+    text-align: center;
+}
+
+.formulairedecontact{
+    text-align: center;
+    font-family:GrandHotel;
+    font-size: 50px;
+}
+
+.g-recaptcha > div > div{
+    margin:auto;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
