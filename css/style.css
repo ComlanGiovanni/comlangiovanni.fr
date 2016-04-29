@@ -1,4 +1,9 @@
 @font-face {
+    font-family: GrandHotel;
+    src: url(GrandHotel-Regular.otf);
+}
+
+@font-face {
     font-family: myFirstFont;
     src: url(GrandHotel-Regular.otf);
 }
@@ -13,14 +18,26 @@
     src: url(GoodDog.otf);
 }
 
+@font-face {
+    font-family: Chunkfive;
+    src: url(Chunkfive.otf);
+}
+
 html {
+    /*
     cursor: url('images/cursor/pointer4x.png'), pointer;
+    */
 }
 
 body {
     padding-top: 20px;
-    background-color: beige;
+    background-color: rgba(0, 0, 0, 0.72);
+    /*
+    background-color: #ecf0f1;
+    */
+    /*
     cursor: url('images/cursor/pointer4x.png'), pointer;
+    */
 }
 
 .tba {
@@ -34,7 +51,9 @@ body {
 .tba:hover {
     -webkit-filter: blur(2px); /* Chrome, Safari, Opera */
     filter: blur(2px);
+    /*
     cursor: url('images/cursor/pointer4x.png'), pointer;
+    */
 }
 
 .photoac{
@@ -67,17 +86,23 @@ body {
 
 .navbar-inverse .navbar-brand:hover{
     color: black;
+    /*
     cursor: url('images/cursor/pointer4x.png'), pointer;
+    */
 }
 
 .navbar-nav > li > a{
     color: white;
+    /*
     cursor: url('images/cursor/pointer4x.png'), pointer;
+    */
 }
 
 .navbar-nav > li > a:hover{
     color: white;
+    /*
     cursor: url('images/cursor/pointer4x.png'), pointer;
+    */
 }
 
 .navbar-inverse .navbar-toggle {
@@ -86,7 +111,9 @@ body {
 
 .navbar-inverse .navbar-toggle:hover {
     border-color : white;
+    /*
     cursor: url('images/cursor/pointer@4x.png'), pointer;
+    */
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
@@ -99,12 +126,34 @@ body {
     padding-top: 0px;
 }
 
-p {
+/*.navbar .navbar-nav {
+display: inline-block;
+float: none;
+}
+
+.navbar .navbar-collapse {
+text-align: center;
+}
+*/
+
+p.nomprenom {
     font-family: myFirstFont;
     font-size: 50px;
     animation-duration: 1s;
     animation-delay: 5s;
     animation-iteration-count: 1;
+    padding-bottom: 10px;
+    color: white;
+}
+
+p.nomprenom:hover {
+    font-family: myFirstFont;
+    font-size: 50px;
+    animation-duration: 1s;
+    animation-delay: 5s;
+    animation-iteration-count: 1;
+    padding-bottom: 10px;
+    color: black;
 }
 
 .konamiimg {
@@ -127,5 +176,137 @@ p {
 .taillesocialicon:hover {
     -webkit-filter: blur(2px); /* Chrome, Safari, Opera */
     filter: blur(2px);
+    /*
     cursor: url('images/cursor/pointer@4x.png'), pointer;
+    */
+}
+
+/*Scrollbar Code */
+
+::-webkit-scrollbar-track
+{
+    -webkit-box-shadow: inset 0 0 10px rgba(0,0,0,0.3);
+    background-color: white;
+    /*#F5F5F5*/
+}
+
+::-webkit-scrollbar
+{
+    width: 10px;
+    background-color: white;
+    /*#F5F5F5*/
+}
+
+::-webkit-scrollbar-thumb
+{
+    background-color: #000000;
+    border: 1px solid #555555;
+}
+
+/*End css Scrollbar*/
+
+.alert-danger{
+    text-align: center;
+}
+.alert-success{
+    text-align: center;
+}
+
+.formulairedecontact{
+    text-align: center;
+    font-family:GrandHotel;
+    font-size: 50px;
+}
+
+.g-recaptcha > div > div{
+    margin:auto;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+label {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+
+.taillesocialimg {
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px
+}
+
+
+html, body {
+    text-align: center;
+}
+
+.svg-wrapper {
+    height: 70px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 0 auto;
+    width: 320px; 
+    opacity: 1;
+    //transition: all 1s ease;
+}
+
+.svg-wrapper:hover{
+    opacity:1;
+}
+
+.shape {
+    stroke-dasharray: 140, 250;
+    stroke-dashoffset: -474;
+    stroke-width: 2px;
+    fill: transparent;
+    stroke: black;
+    border-bottom: 5px solid black;
+    transition: stroke-width 1s, stroke-dashoffset 1s, stroke-dasharray 3s;
+}
+
+.text {
+    font-family: 'Roboto Condensed';
+    font-size: 22px;
+    line-height: 32px;
+    letter-spacing: 8px;
+    color: #fff;
+    top: -48px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.text a{
+    text-decoration: none;
+    color: white;
+}
+
+.svg-wrapper:hover .shape {
+    stroke-width: 9px;
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1,1;
+}
+
+
+/*dfvwcdfv*/
+
+.taillelang {
+    width: 50px;
+    height: 50px;
+}
+
+.idicationlang{
+    font-family: Chunkfive;
+    font-size: 20px;
+    color: white;
+}
+
+
+.idicationlang:hover {
+    color: black;
+    
 }
