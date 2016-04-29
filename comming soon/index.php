@@ -28,8 +28,24 @@ session_start();
     /-->
 <html lang="fr">
     <head>
-        <meta charset="UTF-8">
         <title>Comming soon</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Portfolio de COMLAN Giovanni">
+        <meta name="author" content="COMLAN Giovanni">
+        <meta name="keywords" lang="fr" content="COMLAN Giovanni PORTFOLIO">
+        <meta name="reply-to" content="giovanni.comlan@yahoo.fr">
+        <meta name="robots" content="noarchive">
+        <meta http-equiv="Cache-control" content="no-cache">
+        <!--
+        <meta http-equiv="Cache-Control" content="max-age=600" />
+        -->
+        <!-- Chrome, Firefox OS and Opera -->
+        <meta name="theme-color" content="#000000">
+        <!-- Windows Phone -->
+        <meta name="msapplication-navbutton-color" content="#000000">
+        <!-- iOS Safari -->
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
         <link rel="icon" type="image/x-icon" href="images/Radiation.png"/>
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/animate.css">

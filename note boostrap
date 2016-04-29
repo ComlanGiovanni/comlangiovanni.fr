@@ -1,0 +1,23 @@
+source: https://openclassrooms.com/courses/prenez-en-main-bootstrap/mise-en-route-8
+
+CDN est l'acronyme de « Content delivery network » ; c'est un réseau de serveurs qui met à disposition des librairies. Il devient ainsi inutile de prévoir ces librairies sur son propre serveur, il suffit de « pointer » vers eux. Il y a des avantages à utiliser un CDN :
+
+Libération de ressources et de la bande passante sur son propre serveur ;
+Parallélisation des téléchargements (un CDN est sur plusieurs serveurs) ;
+Accélération du chargement ;
+Diminution de la latence ;
+Actualisation automatique des librairies ;
+Amélioration du référencement…
+
+
+
+padding: 40px 15px;
+/*
+taille px (padding top et bottom) taille px (padding left et rigth)
+*/
+
+. pour une class
+# pour uun id
+
+
+linkdin viadeo googleplus github skype mail viameo codepen.io
